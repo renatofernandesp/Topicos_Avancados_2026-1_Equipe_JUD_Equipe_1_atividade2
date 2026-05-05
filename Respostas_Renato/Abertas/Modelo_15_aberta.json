@@ -1,0 +1,72 @@
+[
+    {
+        "id_pergunta": 21,
+        "id_modelo": 15,
+        "texto_resposta": "A situação envolve a interpretação de normas penais e a aplicação de penas em um caso concreto, o que requer análise do juiz de direito. Além disso, a peça jurídica deve abordar questões de violência doméstica, que são complexas e demandam conhecimento específico da legislação penal.",
+        "tempo_inferencia_ms": 847.34,
+        "data_geracao": "2026-05-05 10:18:12"
+    },
+    {
+        "id_pergunta": 22,
+        "id_modelo": 15,
+        "texto_resposta": "O caso envolve a interpretação de normas penais e a aplicação de princípios constitucionais, o que requer a análise de um juiz de direito. Além disso, a questão da validade das provas obtidas por meio de infiltração policial demanda uma análise mais aprofundada da legislação e jurisprudência aplicáveis.",
+        "tempo_inferencia_ms": 1123.87,
+        "data_geracao": "2026-05-05 10:18:16"
+    },
+    {
+        "id_pergunta": 23,
+        "id_modelo": 15,
+        "texto_resposta": "A questão envolve a interpretação de normas penais e a aplicação de conceitos como inimputabilidade, o que requer análise de casos práticos. O advogado deve avaliar a situação da ré à luz do direito penal, considerando as implicações\nlegais das condutas descritas.",
+        "tempo_inferencia_ms": 963.55,
+        "data_geracao": "2026-05-05 10:18:23"
+    },
+    {
+        "id_pergunta": 24,
+        "id_modelo": 15,
+        "texto_resposta": "A análise do caso envolve a interpretação de normas penais e a aplicação de teses defensivas, o que requer a atuação de um Juiz de Direito. Além disso, a questão aborda a possibilidade de redução de pena e a defesa em relação à corrupção de menores, temas que exigem uma análise mais aprofundada do contexto fático e jurídico.",
+        "tempo_inferencia_ms": 1389.21,
+        "data_geracao": "2026-05-05 10:18:32"
+    },
+    {
+        "id_pergunta": 25,
+        "id_modelo": 15,
+        "texto_resposta": "A questão envolve a interpretação de normas penais e processuais, além da análise de casos práticos relacionados ao homicídio culposo e à citação por edital. A defesa requer uma subsunção dos fatos à norma, o que é competência do\nJuiz de Direito.",
+        "tempo_inferencia_ms": 1044.66,
+        "data_geracao": "2026-05-05 10:18:41"
+    },
+    {
+        "id_pergunta": 26,
+        "id_modelo": 15,
+        "texto_resposta": "A questão requer a aplicação direta da legislação trabalhista e civil, sem necessidade de interpretação complexa ou análise de precedentes. O foco está na elaboração de uma peça processual com base nos fatos apresentados e na legislação pertinente.",
+        "tempo_inferencia_ms": 621.48,
+        "data_geracao": "2026-05-05 10:18:52"
+    },
+    {
+        "id_pergunta": 27,
+        "id_modelo": 15,
+        "texto_resposta": "A questão envolve a análise de ritos processuais e a admissibilidade de provas após a conclusão do processo, o que se enquadra na atuação de um analista. Além disso, a matéria é específica do direito do trabalho, considerando a relação entre empregado e empregador no contexto de regimes jurídicos distintos.",
+        "tempo_inferencia_ms": 912.09,
+        "data_geracao": "2026-05-05 10:19:02"
+    },
+    {
+        "id_pergunta": 28,
+        "id_modelo": 15,
+        "texto_resposta": "A questão envolve a interpretação de normas trabalhistas e a aplicação de princípios do direito do trabalho em um caso concreto, o que requer análise mais aprofundada. O juiz de direito é o responsável por decidir sobre a subsunção dos fatos à norma aplicável.",
+        "tempo_inferencia_ms": 1198.72,
+        "data_geracao": "2026-05-05 10:19:27"
+    },
+    {
+        "id_pergunta": 29,
+        "id_modelo": 15,
+        "texto_resposta": "O caso envolve a interpretação de normas trabalhistas e a aplicação de jurisprudência do TST, o que requer análise e subsunção dos fatos à norma. A situação demanda uma avaliação mais complexa, típica da atuação de um Juiz de Direito.",
+        "tempo_inferencia_ms": 1345.90,
+        "data_geracao": "2026-05-05 10:19:35"
+    },
+    {
+        "id_pergunta": 30,
+        "id_modelo": 15,
+        "texto_resposta": "A questão envolve a interpretação de normas trabalhistas e a aplicação de jurisprudência do TST, o que requer análise de casos práticos. A defesa da inexistência de estabilidade e a medida para sustar a tutela de urgência são questões que exigem a subsunção do fato à norma pelo juiz.",
+        "tempo_inferencia_ms": 1267.41,
+        "data_geracao": "2026-05-05 10:19:47"
+    }
+]

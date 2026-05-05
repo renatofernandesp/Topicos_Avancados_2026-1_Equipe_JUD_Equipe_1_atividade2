@@ -1,0 +1,66 @@
+
+[
+    {
+        "id_pergunta": 22,
+        "id_modelo": 21,
+        "texto_resposta": "A peça jurídica cabível é uma apelação, pois a sentença condenatória deve ser analisada quanto à sua legalidade e justiça, especialmente em relação à fixação da pena e à perda do cargo público. O caso envolve interpretação de casos práticos e subsunção do fato à norma, caracterizando um nível 3 de complexidade.",
+        "tempo_inferencia_ms": 1278.44,
+        "data_geracao": "2026-05-05 12:03:17"
+    },
+    {
+        "id_pergunta": 23,
+        "id_modelo": 21,
+        "texto_resposta": "O caso envolve a análise de crime de terrorismo e a validade de provas obtidas por meio de agente infiltrado virtualmente, requerendo interpretação de leis e aplicação de jurisprudência pertinente ao direito penal.",
+        "tempo_inferencia_ms": 1412.09,
+        "data_geracao": "2026-05-05 12:03:41"
+    },
+    {
+        "id_pergunta": 24,
+        "id_modelo": 21,
+        "texto_resposta": "A questão envolve a análise da inimputabilidade de Manoela e as consequências jurídicas de sua eventual absolvição imprópria, o que requer a interpretação de casos práticos e a subsunção do fato à norma penal.",
+        "tempo_inferencia_ms": 1086.73,
+        "data_geracao": "2026-05-05 12:03:58"
+    },
+    {
+        "id_pergunta": 25,
+        "id_modelo": 21,
+        "texto_resposta": "O caso envolve a análise de um crime de roubo circunstanciado e corrupção de menores, exigindo a aplicação de leis e interpretação de casos práticos, o que é típico do nível de Juiz de Direito. A defesa de Aníbal requer a análise das circunstâncias do crime e a aplicação das leis pertinentes.",
+        "tempo_inferencia_ms": 1529.31,
+        "data_geracao": "2026-05-05 12:04:17"
+    },
+    {
+        "id_pergunta": 26,
+        "id_modelo": 21,
+        "texto_resposta": "A questão envolve a análise do nexo causal entre a conduta de Carlos e a morte de Thales, bem como a aplicação da lei penal a um caso concreto, o que requer a interpretação de um juiz de direito.",
+        "tempo_inferencia_ms": 1244.88,
+        "data_geracao": "2026-05-05 12:04:29"
+    },
+    {
+        "id_pergunta": 27,
+        "id_modelo": 21,
+        "texto_resposta": "A questão exige a elaboração de uma peça processual para defender os interesses de Everton Silva, que teve seu veículo penhorado indevidamente, o que demanda a aplicação de conceitos do direito processual civil e trabalhista, bem como a interpretação de casos práticos.",
+        "tempo_inferencia_ms": 1009.57,
+        "data_geracao": "2026-05-05 12:04:45"
+    },
+    {
+        "id_pergunta": 28,
+        "id_modelo": 21,
+        "texto_resposta": "A questão envolve a análise da mudança de regime jurídico de Celso e a possibilidade de discussão de verbas trabalhistas após a aposentadoria, além da admissibilidade de prova nova após a conclusão do processo para sentença.",
+        "tempo_inferencia_ms": 1387.62,
+        "data_geracao": "2026-05-05 12:05:02"
+    },
+    {
+        "id_pergunta": 29,
+        "id_modelo": 21,
+        "texto_resposta": "A questão envolve a análise do efeito da aposentadoria por incapacidade permanente no contrato de trabalho e a discussão sobre o restabelecimento do plano de saúde, exigindo a aplicação de normas específicas do direito do trabalho e a interpretação de casos práticos.",
+        "tempo_inferencia_ms": 1455.16,
+        "data_geracao": "2026-05-05 12:05:16"
+    },
+    {
+        "id_pergunta": 30,
+        "id_modelo": 21,
+        "texto_resposta": "O caso envolve a aplicação de normas trabalhistas específicas relacionadas à dispensa de dirigente sindical e requer a interpretação de casos práticos, caracterizando um nível de complexidade que exige a atuação de um Juiz de Direito.",
+        "tempo_inferencia_ms": 1168.93,
+        "data_geracao": "2026-05-05 12:05:32"
+    }
+]
