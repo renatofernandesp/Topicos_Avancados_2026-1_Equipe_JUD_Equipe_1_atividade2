@@ -1,318 +1,318 @@
-{"id_questao": 531,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 8152.45,"data_geracao": "2026-05-07 01:19:37"}
-{"id_questao": 531,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 1457.26,"data_geracao": "2026-05-07 01:19:30"}
-{"id_questao": 531,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 9412.77,"data_geracao": "2026-05-07 01:19:38"}
-{"id_questao": 532,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 5358.48,"data_geracao": "2026-05-07 01:19:34"}
-{"id_questao": 532,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 1663.81,"data_geracao": "2026-05-07 01:19:31"}
-{"id_questao": 532,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 8238.9,"data_geracao": "2026-05-07 01:19:37"}
-{"id_questao": 533,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 4001.79,"data_geracao": "2026-05-07 01:19:33"}
-{"id_questao": 533,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 1014.7,"data_geracao": "2026-05-07 01:19:30"}
-{"id_questao": 533,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 25977.2,"data_geracao": "2026-05-07 01:19:55"}
-{"id_questao": 534,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 4015.17,"data_geracao": "2026-05-07 01:19:33"}
-{"id_questao": 534,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 1625.99,"data_geracao": "2026-05-07 01:19:31"}
-{"id_questao": 534,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 6332.03,"data_geracao": "2026-05-07 01:19:35"}
-{"id_questao": 535,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 3215.7,"data_geracao": "2026-05-07 01:19:32"}
-{"id_questao": 535,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 1638.59,"data_geracao": "2026-05-07 01:19:31"}
-{"id_questao": 535,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 4339.3,"data_geracao": "2026-05-07 01:19:33"}
-{"id_questao": 536,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 7180.92,"data_geracao": "2026-05-07 01:19:38"}
-{"id_questao": 536,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 1038.7,"data_geracao": "2026-05-07 01:19:31"}
-{"id_questao": 536,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 9766.53,"data_geracao": "2026-05-07 01:19:40"}
-{"id_questao": 537,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 4376.47,"data_geracao": "2026-05-07 01:19:35"}
-{"id_questao": 537,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 804.55,"data_geracao": "2026-05-07 01:19:31"}
-{"id_questao": 537,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 5595.96,"data_geracao": "2026-05-07 01:19:37"}
-{"id_questao": 538,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 3629.54,"data_geracao": "2026-05-07 01:19:36"}
-{"id_questao": 538,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 1003.05,"data_geracao": "2026-05-07 01:19:32"}
-{"id_questao": 538,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 8236.37,"data_geracao": "2026-05-07 01:19:41"}
-{"id_questao": 539,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 3440.07,"data_geracao": "2026-05-07 01:19:36"}
-{"id_questao": 539,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 1278.22,"data_geracao": "2026-05-07 01:19:34"}
-{"id_questao": 539,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 6996.86,"data_geracao": "2026-05-07 01:19:40"}
-{"id_questao": 540,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 3756.92,"data_geracao": "2026-05-07 01:19:38"}
-{"id_questao": 540,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 768.38,"data_geracao": "2026-05-07 01:19:35"}
-{"id_questao": 540,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 5708.79,"data_geracao": "2026-05-07 01:19:41"}
-{"id_questao": 541,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 3324.0,"data_geracao": "2026-05-07 01:19:39"}
-{"id_questao": 541,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 681.86,"data_geracao": "2026-05-07 01:19:36"}
-{"id_questao": 541,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 6765.08,"data_geracao": "2026-05-07 01:19:43"}
-{"id_questao": 542,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 3094.29,"data_geracao": "2026-05-07 01:19:40"}
-{"id_questao": 542,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 873.35,"data_geracao": "2026-05-07 01:19:37"}
-{"id_questao": 542,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 4848.2,"data_geracao": "2026-05-07 01:19:42"}
-{"id_questao": 543,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 2309.52,"data_geracao": "2026-05-07 01:19:39"}
-{"id_questao": 543,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 944.32,"data_geracao": "2026-05-07 01:19:38"}
-{"id_questao": 543,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 4403.74,"data_geracao": "2026-05-07 01:19:42"}
-{"id_questao": 544,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 3531.51,"data_geracao": "2026-05-07 01:19:41"}
-{"id_questao": 544,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 724.85,"data_geracao": "2026-05-07 01:19:38"}
-{"id_questao": 544,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 4317.88,"data_geracao": "2026-05-07 01:19:42"}
-{"id_questao": 545,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 2591.77,"data_geracao": "2026-05-07 01:19:41"}
-{"id_questao": 545,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 745.15,"data_geracao": "2026-05-07 01:19:39"}
-{"id_questao": 545,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 8110.66,"data_geracao": "2026-05-07 01:19:47"}
-{"id_questao": 546,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 3048.41,"data_geracao": "2026-05-07 01:19:43"}
-{"id_questao": 546,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 886.13,"data_geracao": "2026-05-07 01:19:40"}
-{"id_questao": 546,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 11110.85,"data_geracao": "2026-05-07 01:19:51"}
-{"id_questao": 547,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 5956.52,"data_geracao": "2026-05-07 01:19:46"}
-{"id_questao": 547,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 827.25,"data_geracao": "2026-05-07 01:19:41"}
-{"id_questao": 547,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 8357.05,"data_geracao": "2026-05-07 01:19:49"}
-{"id_questao": 548,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 5590.13,"data_geracao": "2026-05-07 01:19:46"}
-{"id_questao": 548,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 744.28,"data_geracao": "2026-05-07 01:19:41"}
-{"id_questao": 548,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 13400.84,"data_geracao": "2026-05-07 01:19:54"}
-{"id_questao": 549,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 6203.47,"data_geracao": "2026-05-07 01:19:47"}
-{"id_questao": 549,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 728.25,"data_geracao": "2026-05-07 01:19:42"}
-{"id_questao": 549,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 8110.32,"data_geracao": "2026-05-07 01:19:50"}
-{"id_questao": 550,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 5217.87,"data_geracao": "2026-05-07 01:19:47"}
-{"id_questao": 550,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 4342.14,"data_geracao": "2026-05-07 01:19:46"}
-{"id_questao": 550,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 10494.69,"data_geracao": "2026-05-07 01:19:52"}
-{"id_questao": 551,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 9756.58,"data_geracao": "2026-05-07 01:19:52"}
-{"id_questao": 551,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 3824.25,"data_geracao": "2026-05-07 01:19:46"}
-{"id_questao": 551,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 18888.99,"data_geracao": "2026-05-07 01:20:01"}
-{"id_questao": 552,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 3994.9,"data_geracao": "2026-05-07 01:19:50"}
-{"id_questao": 552,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 628.11,"data_geracao": "2026-05-07 01:19:46"}
-{"id_questao": 552,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 5987.29,"data_geracao": "2026-05-07 01:19:52"}
-{"id_questao": 553,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 3802.56,"data_geracao": "2026-05-07 01:19:50"}
-{"id_questao": 553,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 1023.72,"data_geracao": "2026-05-07 01:19:47"}
-{"id_questao": 553,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 6689.2,"data_geracao": "2026-05-07 01:31:40"}
-{"id_questao": 554,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 3635.81,"data_geracao": "2026-05-07 01:19:51"}
-{"id_questao": 554,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 711.28,"data_geracao": "2026-05-07 01:19:48"}
-{"id_questao": 554,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 5484.48,"data_geracao": "2026-05-07 01:19:53"}
-{"id_questao": 555,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 2514.81,"data_geracao": "2026-05-07 01:19:51"}
-{"id_questao": 555,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 865.61,"data_geracao": "2026-05-07 01:19:48"}
-{"id_questao": 555,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 4768.24,"data_geracao": "2026-05-07 01:31:57"}
-{"id_questao": 556,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 12541.81,"data_geracao": "2026-05-07 01:20:03"}
-{"id_questao": 556,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 1482.73,"data_geracao": "2026-05-07 01:19:51"}
-{"id_questao": 556,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 12928.69,"data_geracao": "2026-05-07 01:20:03"}
-{"id_questao": 557,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 3517.45,"data_geracao": "2026-05-07 01:19:54"}
-{"id_questao": 557,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 785.85,"data_geracao": "2026-05-07 01:19:51"}
-{"id_questao": 557,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 4914.9,"data_geracao": "2026-05-07 01:20:01"}
-{"id_questao": 558,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 7662.58,"data_geracao": "2026-05-07 01:19:59"}
-{"id_questao": 558,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 1499.36,"data_geracao": "2026-05-07 01:19:53"}
-{"id_questao": 558,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 5271.98,"data_geracao": "2026-05-07 01:32:13"}
-{"id_questao": 559,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 3898.0,"data_geracao": "2026-05-07 01:19:56"}
-{"id_questao": 559,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 790.49,"data_geracao": "2026-05-07 01:19:53"}
-{"id_questao": 559,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 6609.11,"data_geracao": "2026-05-07 01:20:05"}
-{"id_questao": 560,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 2297.48,"data_geracao": "2026-05-07 01:19:55"}
-{"id_questao": 560,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 815.83,"data_geracao": "2026-05-07 01:19:54"}
-{"id_questao": 560,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 4117.27,"data_geracao": "2026-05-07 01:19:58"}
-{"id_questao": 561,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 2977.39,"data_geracao": "2026-05-07 01:19:57"}
-{"id_questao": 561,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 1048.18,"data_geracao": "2026-05-07 01:19:55"}
-{"id_questao": 561,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 5471.96,"data_geracao": "2026-05-07 01:20:06"}
-{"id_questao": 562,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 5489.57,"data_geracao": "2026-05-07 01:20:01"}
-{"id_questao": 562,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 789.16,"data_geracao": "2026-05-07 01:19:56"}
-{"id_questao": 562,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 7668.34,"data_geracao": "2026-05-07 01:20:04"}
-{"id_questao": 563,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 7039.64,"data_geracao": "2026-05-07 01:20:04"}
-{"id_questao": 563,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 886.55,"data_geracao": "2026-05-07 01:19:57"}
-{"id_questao": 563,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 14673.09,"data_geracao": "2026-05-07 01:20:23"}
-{"id_questao": 564,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 3313.12,"data_geracao": "2026-05-07 01:20:01"}
-{"id_questao": 564,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 886.51,"data_geracao": "2026-05-07 01:19:58"}
-{"id_questao": 564,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 6996.53,"data_geracao": "2026-05-07 01:20:16"}
-{"id_questao": 565,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 5871.72,"data_geracao": "2026-05-07 01:20:05"}
-{"id_questao": 565,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 838.29,"data_geracao": "2026-05-07 01:20:00"}
-{"id_questao": 565,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 21417.92,"data_geracao": "2026-05-07 01:20:32"}
-{"id_questao": 566,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 2529.16,"data_geracao": "2026-05-07 01:20:04"}
-{"id_questao": 566,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 1370.57,"data_geracao": "2026-05-07 01:20:02"}
-{"id_questao": 566,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 3344.98,"data_geracao": "2026-05-07 01:20:10"}
-{"id_questao": 567,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 2913.66,"data_geracao": "2026-05-07 01:20:05"}
-{"id_questao": 567,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 1046.06,"data_geracao": "2026-05-07 01:20:02"}
-{"id_questao": 567,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 11658.2,"data_geracao": "2026-05-07 01:20:25"}
-{"id_questao": 568,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 2435.52,"data_geracao": "2026-05-07 01:20:05"}
-{"id_questao": 568,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 1350.39,"data_geracao": "2026-05-07 01:20:04"}
-{"id_questao": 568,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 5645.17,"data_geracao": "2026-05-07 01:20:14"}
-{"id_questao": 569,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 1755.06,"data_geracao": "2026-05-07 01:20:05"}
-{"id_questao": 569,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 730.64,"data_geracao": "2026-05-07 01:20:04"}
-{"id_questao": 569,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 5330.16,"data_geracao": "2026-05-07 01:20:15"}
-{"id_questao": 570,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 3198.39,"data_geracao": "2026-05-07 01:20:08"}
-{"id_questao": 570,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 818.3,"data_geracao": "2026-05-07 01:20:05"}
-{"id_questao": 570,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 4963.65,"data_geracao": "2026-05-07 01:20:10"}
-{"id_questao": 571,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 3080.57,"data_geracao": "2026-05-07 01:20:08"}
-{"id_questao": 571,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 1463.92,"data_geracao": "2026-05-07 01:20:06"}
-{"id_questao": 571,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 3561.95,"data_geracao": "2026-05-07 01:20:09"}
-{"id_questao": 572,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 9062.01,"data_geracao": "2026-05-07 01:20:15"}
-{"id_questao": 572,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 894.48,"data_geracao": "2026-05-07 01:20:06"}
-{"id_questao": 572,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 9635.78,"data_geracao": "2026-05-07 01:20:16"}
-{"id_questao": 573,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 6513.06,"data_geracao": "2026-05-07 01:20:13"}
-{"id_questao": 573,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 1605.68,"data_geracao": "2026-05-07 01:20:08"}
-{"id_questao": 573,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 4932.41,"data_geracao": "2026-05-07 01:20:13"}
-{"id_questao": 574,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 3052.36,"data_geracao": "2026-05-07 01:20:11"}
-{"id_questao": 574,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 1164.37,"data_geracao": "2026-05-07 01:20:09"}
-{"id_questao": 574,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 4664.53,"data_geracao": "2026-05-07 01:20:13"}
-{"id_questao": 575,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 4141.59,"data_geracao": "2026-05-07 01:20:14"}
-{"id_questao": 575,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 862.04,"data_geracao": "2026-05-07 01:20:10"}
-{"id_questao": 575,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 17811.34,"data_geracao": "2026-05-07 01:20:27"}
-{"id_questao": 576,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 2422.08,"data_geracao": "2026-05-07 01:20:13"}
-{"id_questao": 576,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 944.59,"data_geracao": "2026-05-07 01:20:11"}
-{"id_questao": 576,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 4153.37,"data_geracao": "2026-05-07 01:20:15"}
-{"id_questao": 577,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 2890.35,"data_geracao": "2026-05-07 01:20:16"}
-{"id_questao": 577,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 1261.32,"data_geracao": "2026-05-07 01:20:14"}
-{"id_questao": 577,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 4112.44,"data_geracao": "2026-05-07 01:20:17"}
-{"id_questao": 578,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 8560.92,"data_geracao": "2026-05-07 01:20:22"}
-{"id_questao": 578,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 1391.99,"data_geracao": "2026-05-07 01:20:15"}
-{"id_questao": 578,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 26869.07,"data_geracao": "2026-05-07 01:20:41"}
-{"id_questao": 579,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 11353.68,"data_geracao": "2026-05-07 01:20:26"}
-{"id_questao": 579,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 1517.34,"data_geracao": "2026-05-07 01:20:16"}
-{"id_questao": 579,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 11303.98,"data_geracao": "2026-05-07 01:20:26"}
-{"id_questao": 580,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 25167.34,"data_geracao": "2026-05-07 01:20:41"}
-{"id_questao": 580,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 632.22,"data_geracao": "2026-05-07 01:20:16"}
-{"id_questao": 580,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 19835.22,"data_geracao": "2026-05-07 01:20:35"}
-{"id_questao": 581,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 8077.84,"data_geracao": "2026-05-07 01:20:24"}
-{"id_questao": 581,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 812.54,"data_geracao": "2026-05-07 01:20:16"}
-{"id_questao": 581,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 31091.39,"data_geracao": "2026-05-07 01:20:47"}
-{"id_questao": 582,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 5698.03,"data_geracao": "2026-05-07 01:20:22"}
-{"id_questao": 582,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 596.83,"data_geracao": "2026-05-07 01:20:16"}
-{"id_questao": 582,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 6076.17,"data_geracao": "2026-05-07 01:20:23"}
-{"id_questao": 583,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 3756.67,"data_geracao": "2026-05-07 01:20:25"}
-{"id_questao": 583,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 3791.43,"data_geracao": "2026-05-07 01:20:21"}
-{"id_questao": 583,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 16628.36,"data_geracao": "2026-05-07 01:20:39"}
-{"id_questao": 584,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 2710.37,"data_geracao": "2026-05-07 01:20:25"}
-{"id_questao": 584,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 806.38,"data_geracao": "2026-05-07 01:20:23"}
-{"id_questao": 584,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 5048.11,"data_geracao": "2026-05-07 01:20:28"}
-{"id_questao": 585,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 3301.08,"data_geracao": "2026-05-07 01:20:27"}
-{"id_questao": 585,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 816.26,"data_geracao": "2026-05-07 01:20:24"}
-{"id_questao": 585,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 6413.85,"data_geracao": "2026-05-07 01:20:30"}
-{"id_questao": 586,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 3146.83,"data_geracao": "2026-05-07 01:20:28"}
-{"id_questao": 586,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 1434.36,"data_geracao": "2026-05-07 01:20:26"}
-{"id_questao": 586,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 5954.39,"data_geracao": "2026-05-07 01:20:31"}
-{"id_questao": 587,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 2215.86,"data_geracao": "2026-05-07 01:20:28"}
-{"id_questao": 587,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 712.76,"data_geracao": "2026-05-07 01:20:27"}
-{"id_questao": 587,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 6184.23,"data_geracao": "2026-05-07 01:20:32"}
-{"id_questao": 588,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 2275.21,"data_geracao": "2026-05-07 01:20:29"}
-{"id_questao": 588,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 984.32,"data_geracao": "2026-05-07 01:20:28"}
-{"id_questao": 588,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 4630.3,"data_geracao": "2026-05-07 01:20:32"}
-{"id_questao": 589,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 3480.69,"data_geracao": "2026-05-07 01:20:32"}
-{"id_questao": 589,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 622.32,"data_geracao": "2026-05-07 01:20:28"}
-{"id_questao": 589,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 5904.67,"data_geracao": "2026-05-07 01:20:34"}
-{"id_questao": 590,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 2408.47,"data_geracao": "2026-05-07 01:20:31"}
-{"id_questao": 590,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 1337.24,"data_geracao": "2026-05-07 01:20:29"}
-{"id_questao": 590,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 13838.92,"data_geracao": "2026-05-07 01:20:43"}
-{"id_questao": 591,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 3189.44,"data_geracao": "2026-05-07 01:20:33"}
-{"id_questao": 591,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 780.87,"data_geracao": "2026-05-07 01:20:30"}
-{"id_questao": 591,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 10664.52,"data_geracao": "2026-05-07 01:20:41"}
-{"id_questao": 592,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 2512.73,"data_geracao": "2026-05-07 01:20:34"}
-{"id_questao": 592,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 891.35,"data_geracao": "2026-05-07 01:20:32"}
-{"id_questao": 592,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 4032.55,"data_geracao": "2026-05-07 01:20:36"}
-{"id_questao": 593,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 3603.08,"data_geracao": "2026-05-07 01:20:35"}
-{"id_questao": 593,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 742.5,"data_geracao": "2026-05-07 01:20:32"}
-{"id_questao": 593,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 13422.28,"data_geracao": "2026-05-07 01:20:46"}
-{"id_questao": 594,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 4478.09,"data_geracao": "2026-05-07 01:20:37"}
-{"id_questao": 594,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 891.27,"data_geracao": "2026-05-07 01:20:33"}
-{"id_questao": 594,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 6277.77,"data_geracao": "2026-05-07 01:20:45"}
-{"id_questao": 595,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 8265.58,"data_geracao": "2026-05-07 01:20:42"}
-{"id_questao": 595,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 905.14,"data_geracao": "2026-05-07 01:20:34"}
-{"id_questao": 595,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 9921.56,"data_geracao": "2026-05-07 01:32:36"}
-{"id_questao": 596,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 4581.53,"data_geracao": "2026-05-07 01:20:40"}
-{"id_questao": 596,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 1358.07,"data_geracao": "2026-05-07 01:20:36"}
-{"id_questao": 596,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 5926.09,"data_geracao": "2026-05-07 01:32:52"}
-{"id_questao": 597,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 3478.19,"data_geracao": "2026-05-07 01:20:39"}
-{"id_questao": 597,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 683.64,"data_geracao": "2026-05-07 01:20:36"}
-{"id_questao": 597,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 6265.15,"data_geracao": "2026-05-07 01:33:11"}
-{"id_questao": 598,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 3161.5,"data_geracao": "2026-05-07 01:20:41"}
-{"id_questao": 598,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 807.74,"data_geracao": "2026-05-07 01:20:38"}
-{"id_questao": 598,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 4568.71,"data_geracao": "2026-05-07 01:33:25"}
-{"id_questao": 599,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 2697.44,"data_geracao": "2026-05-07 01:20:43"}
-{"id_questao": 599,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 773.06,"data_geracao": "2026-05-07 01:20:40"}
-{"id_questao": 599,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 5022.17,"data_geracao": "2026-05-07 01:33:43"}
-{"id_questao": 600,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 2597.65,"data_geracao": "2026-05-07 01:20:43"}
-{"id_questao": 600,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 727.99,"data_geracao": "2026-05-07 01:20:41"}
-{"id_questao": 600,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 4971.48,"data_geracao": "2026-05-07 01:33:58"}
-{"id_questao": 601,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 3391.52,"data_geracao": "2026-05-07 01:20:45"}
-{"id_questao": 601,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 809.38,"data_geracao": "2026-05-07 01:20:42"}
-{"id_questao": 601,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 10302.99,"data_geracao": "2026-05-07 01:20:57"}
-{"id_questao": 602,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 4406.0,"data_geracao": "2026-05-07 01:20:47"}
-{"id_questao": 602,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 692.6,"data_geracao": "2026-05-07 01:20:43"}
-{"id_questao": 602,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 6416.41,"data_geracao": "2026-05-07 01:34:18"}
-{"id_questao": 603,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 3416.97,"data_geracao": "2026-05-07 01:20:47"}
-{"id_questao": 603,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 794.32,"data_geracao": "2026-05-07 01:20:44"}
-{"id_questao": 603,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 7277.64,"data_geracao": "2026-05-07 01:34:35"}
-{"id_questao": 604,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 3069.85,"data_geracao": "2026-05-07 01:20:48"}
-{"id_questao": 604,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 845.74,"data_geracao": "2026-05-07 01:20:45"}
-{"id_questao": 604,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 5135.84,"data_geracao": "2026-05-07 01:34:53"}
-{"id_questao": 605,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 5708.61,"data_geracao": "2026-05-07 01:20:51"}
-{"id_questao": 605,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 819.04,"data_geracao": "2026-05-07 01:20:46"}
-{"id_questao": 605,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 8829.26,"data_geracao": "2026-05-07 01:35:12"}
-{"id_questao": 606,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 2901.18,"data_geracao": "2026-05-07 01:20:50"}
-{"id_questao": 606,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 801.31,"data_geracao": "2026-05-07 01:20:47"}
-{"id_questao": 606,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 4479.57,"data_geracao": "2026-05-07 01:35:29"}
-{"id_questao": 607,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 4022.43,"data_geracao": "2026-05-07 01:20:51"}
-{"id_questao": 607,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 816.01,"data_geracao": "2026-05-07 01:20:48"}
-{"id_questao": 607,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 6456.52,"data_geracao": "2026-05-07 01:35:46"}
-{"id_questao": 608,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 2647.87,"data_geracao": "2026-05-07 01:20:50"}
-{"id_questao": 608,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 1192.21,"data_geracao": "2026-05-07 01:20:49"}
-{"id_questao": 608,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 5507.85,"data_geracao": "2026-05-07 01:36:04"}
-{"id_questao": 609,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 3038.84,"data_geracao": "2026-05-07 01:20:53"}
-{"id_questao": 609,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 626.45,"data_geracao": "2026-05-07 01:20:50"}
-{"id_questao": 609,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 4932.78,"data_geracao": "2026-05-07 01:36:19"}
-{"id_questao": 610,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 5716.1,"data_geracao": "2026-05-07 01:20:56"}
-{"id_questao": 610,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 794.18,"data_geracao": "2026-05-07 01:20:51"}
-{"id_questao": 610,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 4628.79,"data_geracao": "2026-05-07 01:36:37"}
-{"id_questao": 611,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 12227.69,"data_geracao": "2026-05-07 01:21:03"}
-{"id_questao": 611,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 823.85,"data_geracao": "2026-05-07 01:20:52"}
-{"id_questao": 611,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 7758.74,"data_geracao": "2026-05-07 01:21:13"}
-{"id_questao": 612,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 6181.56,"data_geracao": "2026-05-07 01:20:59"}
-{"id_questao": 612,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 877.65,"data_geracao": "2026-05-07 01:20:53"}
-{"id_questao": 612,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 10034.86,"data_geracao": "2026-05-07 01:41:10"}
-{"id_questao": 613,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 2710.29,"data_geracao": "2026-05-07 01:21:00"}
-{"id_questao": 613,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 718.66,"data_geracao": "2026-05-07 01:20:57"}
-{"id_questao": 613,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 6924.02,"data_geracao": "2026-05-07 01:21:14"}
-{"id_questao": 614,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 3008.62,"data_geracao": "2026-05-07 01:21:01"}
-{"id_questao": 614,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 1003.88,"data_geracao": "2026-05-07 01:20:58"}
-{"id_questao": 614,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 12968.57,"data_geracao": "2026-05-07 01:21:22"}
-{"id_questao": 615,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 2925.76,"data_geracao": "2026-05-07 01:21:02"}
-{"id_questao": 615,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 1128.71,"data_geracao": "2026-05-07 01:21:00"}
-{"id_questao": 615,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 6869.24,"data_geracao": "2026-05-07 01:21:17"}
-{"id_questao": 616,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 15451.71,"data_geracao": "2026-05-07 01:21:15"}
-{"id_questao": 616,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 997.94,"data_geracao": "2026-05-07 01:21:01"}
-{"id_questao": 616,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 51935.79,"data_geracao": "2026-05-07 01:22:03"}
-{"id_questao": 617,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 4281.82,"data_geracao": "2026-05-07 01:21:05"}
-{"id_questao": 617,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 880.61,"data_geracao": "2026-05-07 01:21:01"}
-{"id_questao": 617,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 6965.28,"data_geracao": "2026-05-07 01:21:13"}
-{"id_questao": 618,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 2575.84,"data_geracao": "2026-05-07 01:21:05"}
-{"id_questao": 618,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 863.27,"data_geracao": "2026-05-07 01:21:02"}
-{"id_questao": 618,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 5721.63,"data_geracao": "2026-05-07 01:21:19"}
-{"id_questao": 619,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 4077.3,"data_geracao": "2026-05-07 01:21:07"}
-{"id_questao": 619,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 827.21,"data_geracao": "2026-05-07 01:21:03"}
-{"id_questao": 619,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 6892.79,"data_geracao": "2026-05-07 01:21:16"}
-{"id_questao": 620,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 2674.08,"data_geracao": "2026-05-07 01:21:07"}
-{"id_questao": 620,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 1069.12,"data_geracao": "2026-05-07 01:21:05"}
-{"id_questao": 620,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 5428.75,"data_geracao": "2026-05-07 01:21:16"}
-{"id_questao": 621,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 3216.71,"data_geracao": "2026-05-07 01:21:08"}
-{"id_questao": 621,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 770.45,"data_geracao": "2026-05-07 01:21:06"}
-{"id_questao": 621,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 5893.19,"data_geracao": "2026-05-07 01:21:12"}
-{"id_questao": 622,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 6274.51,"data_geracao": "2026-05-07 01:21:14"}
-{"id_questao": 622,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 1157.83,"data_geracao": "2026-05-07 01:21:08"}
-{"id_questao": 622,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 8531.38,"data_geracao": "2026-05-07 01:21:16"}
-{"id_questao": 623,"id_modelo": "gemini-3-flash-preview","texto_resposta": "A","tempo_inferencia_ms": 3023.22,"data_geracao": "2026-05-07 01:21:11"}
-{"id_questao": 623,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "A","tempo_inferencia_ms": 873.57,"data_geracao": "2026-05-07 01:21:09"}
-{"id_questao": 623,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "A","tempo_inferencia_ms": 4779.65,"data_geracao": "2026-05-07 01:21:13"}
-{"id_questao": 624,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 2860.83,"data_geracao": "2026-05-07 01:21:14"}
-{"id_questao": 624,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 761.53,"data_geracao": "2026-05-07 01:21:12"}
-{"id_questao": 624,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 6645.46,"data_geracao": "2026-05-07 01:21:19"}
-{"id_questao": 625,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 3673.24,"data_geracao": "2026-05-07 01:21:17"}
-{"id_questao": 625,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 1481.02,"data_geracao": "2026-05-07 01:21:14"}
-{"id_questao": 625,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 5798.84,"data_geracao": "2026-05-07 01:21:19"}
-{"id_questao": 626,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 2951.25,"data_geracao": "2026-05-07 01:21:17"}
-{"id_questao": 626,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 980.21,"data_geracao": "2026-05-07 01:21:15"}
-{"id_questao": 626,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 6460.23,"data_geracao": "2026-05-07 01:21:21"}
-{"id_questao": 627,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 2496.16,"data_geracao": "2026-05-07 01:21:17"}
-{"id_questao": 627,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 822.32,"data_geracao": "2026-05-07 01:21:15"}
-{"id_questao": 627,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 3122.14,"data_geracao": "2026-05-07 01:21:18"}
-{"id_questao": 628,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 4350.22,"data_geracao": "2026-05-07 01:21:20"}
-{"id_questao": 628,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 1545.72,"data_geracao": "2026-05-07 01:21:17"}
-{"id_questao": 628,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 12381.26,"data_geracao": "2026-05-07 01:21:28"}
-{"id_questao": 629,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 3166.71,"data_geracao": "2026-05-07 01:21:20"}
-{"id_questao": 629,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 717.48,"data_geracao": "2026-05-07 01:21:17"}
-{"id_questao": 629,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 5120.5,"data_geracao": "2026-05-07 01:21:22"}
-{"id_questao": 630,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 2898.54,"data_geracao": "2026-05-07 01:21:20"}
-{"id_questao": 630,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 1559.04,"data_geracao": "2026-05-07 01:21:18"}
-{"id_questao": 630,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 7625.48,"data_geracao": "2026-05-07 01:21:25"}
-{"id_questao": 631,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 6283.34,"data_geracao": "2026-05-07 01:21:24"}
-{"id_questao": 631,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 1430.33,"data_geracao": "2026-05-07 01:21:18"}
-{"id_questao": 631,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 65732.47,"data_geracao": "2026-05-07 01:22:24"}
-{"id_questao": 632,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 3171.03,"data_geracao": "2026-05-07 01:21:22"}
-{"id_questao": 632,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 844.27,"data_geracao": "2026-05-07 01:21:19"}
-{"id_questao": 632,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 6801.42,"data_geracao": "2026-05-07 01:21:26"}
-{"id_questao": 633,"id_modelo": "gemini-3-flash-preview","texto_resposta": "C","tempo_inferencia_ms": 2379.35,"data_geracao": "2026-05-07 01:21:22"}
-{"id_questao": 633,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "C","tempo_inferencia_ms": 913.63,"data_geracao": "2026-05-07 01:21:20"}
-{"id_questao": 633,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "C","tempo_inferencia_ms": 4077.32,"data_geracao": "2026-05-07 01:21:24"}
-{"id_questao": 634,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 5575.43,"data_geracao": "2026-05-07 01:21:26"}
-{"id_questao": 634,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 687.98,"data_geracao": "2026-05-07 01:21:20"}
-{"id_questao": 634,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 14602.29,"data_geracao": "2026-05-07 01:21:35"}
-{"id_questao": 635,"id_modelo": "gemini-3-flash-preview","texto_resposta": "B","tempo_inferencia_ms": 2672.18,"data_geracao": "2026-05-07 01:21:24"}
-{"id_questao": 635,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "B","tempo_inferencia_ms": 828.14,"data_geracao": "2026-05-07 01:21:21"}
-{"id_questao": 635,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "B","tempo_inferencia_ms": 4414.65,"data_geracao": "2026-05-07 01:21:26"}
-{"id_questao": 636,"id_modelo": "gemini-3-flash-preview","texto_resposta": "D","tempo_inferencia_ms": 2780.15,"data_geracao": "2026-05-07 01:21:25"}
-{"id_questao": 636,"id_modelo": "gemini-3.1-flash-lite-preview","texto_resposta": "D","tempo_inferencia_ms": 773.68,"data_geracao": "2026-05-07 01:21:22"}
-{"id_questao": 636,"id_modelo": "gemini-3.1-pro-preview","texto_resposta": "D","tempo_inferencia_ms": 4470.34,"data_geracao": "2026-05-07 01:21:26"}
+{"id_questao": 531, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 8152.45, "data_geracao": "2026-05-07 01:19:37"}
+{"id_questao": 531, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 1457.26, "data_geracao": "2026-05-07 01:19:30"}
+{"id_questao": 531, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 9412.77, "data_geracao": "2026-05-07 01:19:38"}
+{"id_questao": 532, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 5358.48, "data_geracao": "2026-05-07 01:19:34"}
+{"id_questao": 532, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 1663.81, "data_geracao": "2026-05-07 01:19:31"}
+{"id_questao": 532, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 8238.9, "data_geracao": "2026-05-07 01:19:37"}
+{"id_questao": 533, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 4001.79, "data_geracao": "2026-05-07 01:19:33"}
+{"id_questao": 533, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 1014.7, "data_geracao": "2026-05-07 01:19:30"}
+{"id_questao": 533, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 25977.2, "data_geracao": "2026-05-07 01:19:55"}
+{"id_questao": 534, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 4015.17, "data_geracao": "2026-05-07 01:19:33"}
+{"id_questao": 534, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 1625.99, "data_geracao": "2026-05-07 01:19:31"}
+{"id_questao": 534, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 6332.03, "data_geracao": "2026-05-07 01:19:35"}
+{"id_questao": 535, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 3215.7, "data_geracao": "2026-05-07 01:19:32"}
+{"id_questao": 535, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 1638.59, "data_geracao": "2026-05-07 01:19:31"}
+{"id_questao": 535, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 4339.3, "data_geracao": "2026-05-07 01:19:33"}
+{"id_questao": 536, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 7180.92, "data_geracao": "2026-05-07 01:19:38"}
+{"id_questao": 536, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 1038.7, "data_geracao": "2026-05-07 01:19:31"}
+{"id_questao": 536, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 9766.53, "data_geracao": "2026-05-07 01:19:40"}
+{"id_questao": 537, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 4376.47, "data_geracao": "2026-05-07 01:19:35"}
+{"id_questao": 537, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 804.55, "data_geracao": "2026-05-07 01:19:31"}
+{"id_questao": 537, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 5595.96, "data_geracao": "2026-05-07 01:19:37"}
+{"id_questao": 538, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 3629.54, "data_geracao": "2026-05-07 01:19:36"}
+{"id_questao": 538, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 1003.05, "data_geracao": "2026-05-07 01:19:32"}
+{"id_questao": 538, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 8236.37, "data_geracao": "2026-05-07 01:19:41"}
+{"id_questao": 539, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 3440.07, "data_geracao": "2026-05-07 01:19:36"}
+{"id_questao": 539, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 1278.22, "data_geracao": "2026-05-07 01:19:34"}
+{"id_questao": 539, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 6996.86, "data_geracao": "2026-05-07 01:19:40"}
+{"id_questao": 540, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 3756.92, "data_geracao": "2026-05-07 01:19:38"}
+{"id_questao": 540, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 768.38, "data_geracao": "2026-05-07 01:19:35"}
+{"id_questao": 540, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 5708.79, "data_geracao": "2026-05-07 01:19:41"}
+{"id_questao": 541, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 3324.0, "data_geracao": "2026-05-07 01:19:39"}
+{"id_questao": 541, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 681.86, "data_geracao": "2026-05-07 01:19:36"}
+{"id_questao": 541, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 6765.08, "data_geracao": "2026-05-07 01:19:43"}
+{"id_questao": 542, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 3094.29, "data_geracao": "2026-05-07 01:19:40"}
+{"id_questao": 542, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 873.35, "data_geracao": "2026-05-07 01:19:37"}
+{"id_questao": 542, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 4848.2, "data_geracao": "2026-05-07 01:19:42"}
+{"id_questao": 543, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 2309.52, "data_geracao": "2026-05-07 01:19:39"}
+{"id_questao": 543, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 944.32, "data_geracao": "2026-05-07 01:19:38"}
+{"id_questao": 543, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 4403.74, "data_geracao": "2026-05-07 01:19:42"}
+{"id_questao": 544, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 3531.51, "data_geracao": "2026-05-07 01:19:41"}
+{"id_questao": 544, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 724.85, "data_geracao": "2026-05-07 01:19:38"}
+{"id_questao": 544, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 4317.88, "data_geracao": "2026-05-07 01:19:42"}
+{"id_questao": 545, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 2591.77, "data_geracao": "2026-05-07 01:19:41"}
+{"id_questao": 545, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 745.15, "data_geracao": "2026-05-07 01:19:39"}
+{"id_questao": 545, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 8110.66, "data_geracao": "2026-05-07 01:19:47"}
+{"id_questao": 546, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 3048.41, "data_geracao": "2026-05-07 01:19:43"}
+{"id_questao": 546, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 886.13, "data_geracao": "2026-05-07 01:19:40"}
+{"id_questao": 546, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 11110.85, "data_geracao": "2026-05-07 01:19:51"}
+{"id_questao": 547, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 5956.52, "data_geracao": "2026-05-07 01:19:46"}
+{"id_questao": 547, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 827.25, "data_geracao": "2026-05-07 01:19:41"}
+{"id_questao": 547, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 8357.05, "data_geracao": "2026-05-07 01:19:49"}
+{"id_questao": 548, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 5590.13, "data_geracao": "2026-05-07 01:19:46"}
+{"id_questao": 548, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 744.28, "data_geracao": "2026-05-07 01:19:41"}
+{"id_questao": 548, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 13400.84, "data_geracao": "2026-05-07 01:19:54"}
+{"id_questao": 549, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 6203.47, "data_geracao": "2026-05-07 01:19:47"}
+{"id_questao": 549, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 728.25, "data_geracao": "2026-05-07 01:19:42"}
+{"id_questao": 549, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 8110.32, "data_geracao": "2026-05-07 01:19:50"}
+{"id_questao": 550, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 5217.87, "data_geracao": "2026-05-07 01:19:47"}
+{"id_questao": 550, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 4342.14, "data_geracao": "2026-05-07 01:19:46"}
+{"id_questao": 550, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 10494.69, "data_geracao": "2026-05-07 01:19:52"}
+{"id_questao": 551, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 9756.58, "data_geracao": "2026-05-07 01:19:52"}
+{"id_questao": 551, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 3824.25, "data_geracao": "2026-05-07 01:19:46"}
+{"id_questao": 551, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 18888.99, "data_geracao": "2026-05-07 01:20:01"}
+{"id_questao": 552, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 3994.9, "data_geracao": "2026-05-07 01:19:50"}
+{"id_questao": 552, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 628.11, "data_geracao": "2026-05-07 01:19:46"}
+{"id_questao": 552, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 5987.29, "data_geracao": "2026-05-07 01:19:52"}
+{"id_questao": 553, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 3802.56, "data_geracao": "2026-05-07 01:19:50"}
+{"id_questao": 553, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 1023.72, "data_geracao": "2026-05-07 01:19:47"}
+{"id_questao": 553, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 6689.2, "data_geracao": "2026-05-07 01:31:40"}
+{"id_questao": 554, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 3635.81, "data_geracao": "2026-05-07 01:19:51"}
+{"id_questao": 554, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 711.28, "data_geracao": "2026-05-07 01:19:48"}
+{"id_questao": 554, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 5484.48, "data_geracao": "2026-05-07 01:19:53"}
+{"id_questao": 555, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 2514.81, "data_geracao": "2026-05-07 01:19:51"}
+{"id_questao": 555, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 865.61, "data_geracao": "2026-05-07 01:19:48"}
+{"id_questao": 555, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 4768.24, "data_geracao": "2026-05-07 01:31:57"}
+{"id_questao": 556, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 12541.81, "data_geracao": "2026-05-07 01:20:03"}
+{"id_questao": 556, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 1482.73, "data_geracao": "2026-05-07 01:19:51"}
+{"id_questao": 556, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 12928.69, "data_geracao": "2026-05-07 01:20:03"}
+{"id_questao": 557, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 3517.45, "data_geracao": "2026-05-07 01:19:54"}
+{"id_questao": 557, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 785.85, "data_geracao": "2026-05-07 01:19:51"}
+{"id_questao": 557, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 4914.9, "data_geracao": "2026-05-07 01:20:01"}
+{"id_questao": 558, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 7662.58, "data_geracao": "2026-05-07 01:19:59"}
+{"id_questao": 558, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 1499.36, "data_geracao": "2026-05-07 01:19:53"}
+{"id_questao": 558, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 5271.98, "data_geracao": "2026-05-07 01:32:13"}
+{"id_questao": 559, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 3898.0, "data_geracao": "2026-05-07 01:19:56"}
+{"id_questao": 559, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 790.49, "data_geracao": "2026-05-07 01:19:53"}
+{"id_questao": 559, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 6609.11, "data_geracao": "2026-05-07 01:20:05"}
+{"id_questao": 560, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 2297.48, "data_geracao": "2026-05-07 01:19:55"}
+{"id_questao": 560, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 815.83, "data_geracao": "2026-05-07 01:19:54"}
+{"id_questao": 560, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 4117.27, "data_geracao": "2026-05-07 01:19:58"}
+{"id_questao": 561, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 2977.39, "data_geracao": "2026-05-07 01:19:57"}
+{"id_questao": 561, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 1048.18, "data_geracao": "2026-05-07 01:19:55"}
+{"id_questao": 561, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 5471.96, "data_geracao": "2026-05-07 01:20:06"}
+{"id_questao": 562, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 5489.57, "data_geracao": "2026-05-07 01:20:01"}
+{"id_questao": 562, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 789.16, "data_geracao": "2026-05-07 01:19:56"}
+{"id_questao": 562, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 7668.34, "data_geracao": "2026-05-07 01:20:04"}
+{"id_questao": 563, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 7039.64, "data_geracao": "2026-05-07 01:20:04"}
+{"id_questao": 563, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 886.55, "data_geracao": "2026-05-07 01:19:57"}
+{"id_questao": 563, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 14673.09, "data_geracao": "2026-05-07 01:20:23"}
+{"id_questao": 564, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 3313.12, "data_geracao": "2026-05-07 01:20:01"}
+{"id_questao": 564, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 886.51, "data_geracao": "2026-05-07 01:19:58"}
+{"id_questao": 564, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 6996.53, "data_geracao": "2026-05-07 01:20:16"}
+{"id_questao": 565, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 5871.72, "data_geracao": "2026-05-07 01:20:05"}
+{"id_questao": 565, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 838.29, "data_geracao": "2026-05-07 01:20:00"}
+{"id_questao": 565, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 21417.92, "data_geracao": "2026-05-07 01:20:32"}
+{"id_questao": 566, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 2529.16, "data_geracao": "2026-05-07 01:20:04"}
+{"id_questao": 566, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 1370.57, "data_geracao": "2026-05-07 01:20:02"}
+{"id_questao": 566, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 3344.98, "data_geracao": "2026-05-07 01:20:10"}
+{"id_questao": 567, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 2913.66, "data_geracao": "2026-05-07 01:20:05"}
+{"id_questao": 567, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 1046.06, "data_geracao": "2026-05-07 01:20:02"}
+{"id_questao": 567, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 11658.2, "data_geracao": "2026-05-07 01:20:25"}
+{"id_questao": 568, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 2435.52, "data_geracao": "2026-05-07 01:20:05"}
+{"id_questao": 568, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 1350.39, "data_geracao": "2026-05-07 01:20:04"}
+{"id_questao": 568, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 5645.17, "data_geracao": "2026-05-07 01:20:14"}
+{"id_questao": 569, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 1755.06, "data_geracao": "2026-05-07 01:20:05"}
+{"id_questao": 569, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 730.64, "data_geracao": "2026-05-07 01:20:04"}
+{"id_questao": 569, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 5330.16, "data_geracao": "2026-05-07 01:20:15"}
+{"id_questao": 570, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 3198.39, "data_geracao": "2026-05-07 01:20:08"}
+{"id_questao": 570, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 818.3, "data_geracao": "2026-05-07 01:20:05"}
+{"id_questao": 570, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 4963.65, "data_geracao": "2026-05-07 01:20:10"}
+{"id_questao": 571, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 3080.57, "data_geracao": "2026-05-07 01:20:08"}
+{"id_questao": 571, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 1463.92, "data_geracao": "2026-05-07 01:20:06"}
+{"id_questao": 571, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 3561.95, "data_geracao": "2026-05-07 01:20:09"}
+{"id_questao": 572, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 9062.01, "data_geracao": "2026-05-07 01:20:15"}
+{"id_questao": 572, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 894.48, "data_geracao": "2026-05-07 01:20:06"}
+{"id_questao": 572, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 9635.78, "data_geracao": "2026-05-07 01:20:16"}
+{"id_questao": 573, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 6513.06, "data_geracao": "2026-05-07 01:20:13"}
+{"id_questao": 573, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 1605.68, "data_geracao": "2026-05-07 01:20:08"}
+{"id_questao": 573, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 4932.41, "data_geracao": "2026-05-07 01:20:13"}
+{"id_questao": 574, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 3052.36, "data_geracao": "2026-05-07 01:20:11"}
+{"id_questao": 574, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 1164.37, "data_geracao": "2026-05-07 01:20:09"}
+{"id_questao": 574, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 4664.53, "data_geracao": "2026-05-07 01:20:13"}
+{"id_questao": 575, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 4141.59, "data_geracao": "2026-05-07 01:20:14"}
+{"id_questao": 575, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 862.04, "data_geracao": "2026-05-07 01:20:10"}
+{"id_questao": 575, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 17811.34, "data_geracao": "2026-05-07 01:20:27"}
+{"id_questao": 576, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 2422.08, "data_geracao": "2026-05-07 01:20:13"}
+{"id_questao": 576, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 944.59, "data_geracao": "2026-05-07 01:20:11"}
+{"id_questao": 576, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 4153.37, "data_geracao": "2026-05-07 01:20:15"}
+{"id_questao": 577, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 2890.35, "data_geracao": "2026-05-07 01:20:16"}
+{"id_questao": 577, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 1261.32, "data_geracao": "2026-05-07 01:20:14"}
+{"id_questao": 577, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 4112.44, "data_geracao": "2026-05-07 01:20:17"}
+{"id_questao": 578, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 8560.92, "data_geracao": "2026-05-07 01:20:22"}
+{"id_questao": 578, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 1391.99, "data_geracao": "2026-05-07 01:20:15"}
+{"id_questao": 578, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 26869.07, "data_geracao": "2026-05-07 01:20:41"}
+{"id_questao": 579, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 11353.68, "data_geracao": "2026-05-07 01:20:26"}
+{"id_questao": 579, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 1517.34, "data_geracao": "2026-05-07 01:20:16"}
+{"id_questao": 579, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 11303.98, "data_geracao": "2026-05-07 01:20:26"}
+{"id_questao": 580, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 25167.34, "data_geracao": "2026-05-07 01:20:41"}
+{"id_questao": 580, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 632.22, "data_geracao": "2026-05-07 01:20:16"}
+{"id_questao": 580, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 19835.22, "data_geracao": "2026-05-07 01:20:35"}
+{"id_questao": 581, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 8077.84, "data_geracao": "2026-05-07 01:20:24"}
+{"id_questao": 581, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 812.54, "data_geracao": "2026-05-07 01:20:16"}
+{"id_questao": 581, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 31091.39, "data_geracao": "2026-05-07 01:20:47"}
+{"id_questao": 582, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 5698.03, "data_geracao": "2026-05-07 01:20:22"}
+{"id_questao": 582, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 596.83, "data_geracao": "2026-05-07 01:20:16"}
+{"id_questao": 582, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 6076.17, "data_geracao": "2026-05-07 01:20:23"}
+{"id_questao": 583, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 3756.67, "data_geracao": "2026-05-07 01:20:25"}
+{"id_questao": 583, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 3791.43, "data_geracao": "2026-05-07 01:20:21"}
+{"id_questao": 583, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 16628.36, "data_geracao": "2026-05-07 01:20:39"}
+{"id_questao": 584, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 2710.37, "data_geracao": "2026-05-07 01:20:25"}
+{"id_questao": 584, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 806.38, "data_geracao": "2026-05-07 01:20:23"}
+{"id_questao": 584, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 5048.11, "data_geracao": "2026-05-07 01:20:28"}
+{"id_questao": 585, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 3301.08, "data_geracao": "2026-05-07 01:20:27"}
+{"id_questao": 585, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 816.26, "data_geracao": "2026-05-07 01:20:24"}
+{"id_questao": 585, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 6413.85, "data_geracao": "2026-05-07 01:20:30"}
+{"id_questao": 586, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 3146.83, "data_geracao": "2026-05-07 01:20:28"}
+{"id_questao": 586, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 1434.36, "data_geracao": "2026-05-07 01:20:26"}
+{"id_questao": 586, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 5954.39, "data_geracao": "2026-05-07 01:20:31"}
+{"id_questao": 587, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 2215.86, "data_geracao": "2026-05-07 01:20:28"}
+{"id_questao": 587, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 712.76, "data_geracao": "2026-05-07 01:20:27"}
+{"id_questao": 587, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 6184.23, "data_geracao": "2026-05-07 01:20:32"}
+{"id_questao": 588, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 2275.21, "data_geracao": "2026-05-07 01:20:29"}
+{"id_questao": 588, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 984.32, "data_geracao": "2026-05-07 01:20:28"}
+{"id_questao": 588, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 4630.3, "data_geracao": "2026-05-07 01:20:32"}
+{"id_questao": 589, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 3480.69, "data_geracao": "2026-05-07 01:20:32"}
+{"id_questao": 589, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 622.32, "data_geracao": "2026-05-07 01:20:28"}
+{"id_questao": 589, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 5904.67, "data_geracao": "2026-05-07 01:20:34"}
+{"id_questao": 590, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 2408.47, "data_geracao": "2026-05-07 01:20:31"}
+{"id_questao": 590, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 1337.24, "data_geracao": "2026-05-07 01:20:29"}
+{"id_questao": 590, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 13838.92, "data_geracao": "2026-05-07 01:20:43"}
+{"id_questao": 591, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 3189.44, "data_geracao": "2026-05-07 01:20:33"}
+{"id_questao": 591, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 780.87, "data_geracao": "2026-05-07 01:20:30"}
+{"id_questao": 591, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 10664.52, "data_geracao": "2026-05-07 01:20:41"}
+{"id_questao": 592, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 2512.73, "data_geracao": "2026-05-07 01:20:34"}
+{"id_questao": 592, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 891.35, "data_geracao": "2026-05-07 01:20:32"}
+{"id_questao": 592, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 4032.55, "data_geracao": "2026-05-07 01:20:36"}
+{"id_questao": 593, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 3603.08, "data_geracao": "2026-05-07 01:20:35"}
+{"id_questao": 593, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 742.5, "data_geracao": "2026-05-07 01:20:32"}
+{"id_questao": 593, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 13422.28, "data_geracao": "2026-05-07 01:20:46"}
+{"id_questao": 594, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 4478.09, "data_geracao": "2026-05-07 01:20:37"}
+{"id_questao": 594, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 891.27, "data_geracao": "2026-05-07 01:20:33"}
+{"id_questao": 594, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 6277.77, "data_geracao": "2026-05-07 01:20:45"}
+{"id_questao": 595, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 8265.58, "data_geracao": "2026-05-07 01:20:42"}
+{"id_questao": 595, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 905.14, "data_geracao": "2026-05-07 01:20:34"}
+{"id_questao": 595, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 9921.56, "data_geracao": "2026-05-07 01:32:36"}
+{"id_questao": 596, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 4581.53, "data_geracao": "2026-05-07 01:20:40"}
+{"id_questao": 596, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 1358.07, "data_geracao": "2026-05-07 01:20:36"}
+{"id_questao": 596, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 5926.09, "data_geracao": "2026-05-07 01:32:52"}
+{"id_questao": 597, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 3478.19, "data_geracao": "2026-05-07 01:20:39"}
+{"id_questao": 597, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 683.64, "data_geracao": "2026-05-07 01:20:36"}
+{"id_questao": 597, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 6265.15, "data_geracao": "2026-05-07 01:33:11"}
+{"id_questao": 598, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 3161.5, "data_geracao": "2026-05-07 01:20:41"}
+{"id_questao": 598, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 807.74, "data_geracao": "2026-05-07 01:20:38"}
+{"id_questao": 598, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 4568.71, "data_geracao": "2026-05-07 01:33:25"}
+{"id_questao": 599, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 2697.44, "data_geracao": "2026-05-07 01:20:43"}
+{"id_questao": 599, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 773.06, "data_geracao": "2026-05-07 01:20:40"}
+{"id_questao": 599, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 5022.17, "data_geracao": "2026-05-07 01:33:43"}
+{"id_questao": 600, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 2597.65, "data_geracao": "2026-05-07 01:20:43"}
+{"id_questao": 600, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 727.99, "data_geracao": "2026-05-07 01:20:41"}
+{"id_questao": 600, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 4971.48, "data_geracao": "2026-05-07 01:33:58"}
+{"id_questao": 601, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 3391.52, "data_geracao": "2026-05-07 01:20:45"}
+{"id_questao": 601, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 809.38, "data_geracao": "2026-05-07 01:20:42"}
+{"id_questao": 601, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 10302.99, "data_geracao": "2026-05-07 01:20:57"}
+{"id_questao": 602, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 4406.0, "data_geracao": "2026-05-07 01:20:47"}
+{"id_questao": 602, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 692.6, "data_geracao": "2026-05-07 01:20:43"}
+{"id_questao": 602, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 6416.41, "data_geracao": "2026-05-07 01:34:18"}
+{"id_questao": 603, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 3416.97, "data_geracao": "2026-05-07 01:20:47"}
+{"id_questao": 603, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 794.32, "data_geracao": "2026-05-07 01:20:44"}
+{"id_questao": 603, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 7277.64, "data_geracao": "2026-05-07 01:34:35"}
+{"id_questao": 604, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 3069.85, "data_geracao": "2026-05-07 01:20:48"}
+{"id_questao": 604, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 845.74, "data_geracao": "2026-05-07 01:20:45"}
+{"id_questao": 604, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 5135.84, "data_geracao": "2026-05-07 01:34:53"}
+{"id_questao": 605, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 5708.61, "data_geracao": "2026-05-07 01:20:51"}
+{"id_questao": 605, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 819.04, "data_geracao": "2026-05-07 01:20:46"}
+{"id_questao": 605, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 8829.26, "data_geracao": "2026-05-07 01:35:12"}
+{"id_questao": 606, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 2901.18, "data_geracao": "2026-05-07 01:20:50"}
+{"id_questao": 606, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 801.31, "data_geracao": "2026-05-07 01:20:47"}
+{"id_questao": 606, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 4479.57, "data_geracao": "2026-05-07 01:35:29"}
+{"id_questao": 607, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 4022.43, "data_geracao": "2026-05-07 01:20:51"}
+{"id_questao": 607, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 816.01, "data_geracao": "2026-05-07 01:20:48"}
+{"id_questao": 607, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 6456.52, "data_geracao": "2026-05-07 01:35:46"}
+{"id_questao": 608, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 2647.87, "data_geracao": "2026-05-07 01:20:50"}
+{"id_questao": 608, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 1192.21, "data_geracao": "2026-05-07 01:20:49"}
+{"id_questao": 608, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 5507.85, "data_geracao": "2026-05-07 01:36:04"}
+{"id_questao": 609, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 3038.84, "data_geracao": "2026-05-07 01:20:53"}
+{"id_questao": 609, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 626.45, "data_geracao": "2026-05-07 01:20:50"}
+{"id_questao": 609, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 4932.78, "data_geracao": "2026-05-07 01:36:19"}
+{"id_questao": 610, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 5716.1, "data_geracao": "2026-05-07 01:20:56"}
+{"id_questao": 610, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 794.18, "data_geracao": "2026-05-07 01:20:51"}
+{"id_questao": 610, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 4628.79, "data_geracao": "2026-05-07 01:36:37"}
+{"id_questao": 611, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 12227.69, "data_geracao": "2026-05-07 01:21:03"}
+{"id_questao": 611, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 823.85, "data_geracao": "2026-05-07 01:20:52"}
+{"id_questao": 611, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 7758.74, "data_geracao": "2026-05-07 01:21:13"}
+{"id_questao": 612, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 6181.56, "data_geracao": "2026-05-07 01:20:59"}
+{"id_questao": 612, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 877.65, "data_geracao": "2026-05-07 01:20:53"}
+{"id_questao": 612, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 10034.86, "data_geracao": "2026-05-07 01:41:10"}
+{"id_questao": 613, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 2710.29, "data_geracao": "2026-05-07 01:21:00"}
+{"id_questao": 613, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 718.66, "data_geracao": "2026-05-07 01:20:57"}
+{"id_questao": 613, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 6924.02, "data_geracao": "2026-05-07 01:21:14"}
+{"id_questao": 614, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 3008.62, "data_geracao": "2026-05-07 01:21:01"}
+{"id_questao": 614, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 1003.88, "data_geracao": "2026-05-07 01:20:58"}
+{"id_questao": 614, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 12968.57, "data_geracao": "2026-05-07 01:21:22"}
+{"id_questao": 615, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 2925.76, "data_geracao": "2026-05-07 01:21:02"}
+{"id_questao": 615, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 1128.71, "data_geracao": "2026-05-07 01:21:00"}
+{"id_questao": 615, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 6869.24, "data_geracao": "2026-05-07 01:21:17"}
+{"id_questao": 616, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 15451.71, "data_geracao": "2026-05-07 01:21:15"}
+{"id_questao": 616, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 997.94, "data_geracao": "2026-05-07 01:21:01"}
+{"id_questao": 616, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 51935.79, "data_geracao": "2026-05-07 01:22:03"}
+{"id_questao": 617, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 4281.82, "data_geracao": "2026-05-07 01:21:05"}
+{"id_questao": 617, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 880.61, "data_geracao": "2026-05-07 01:21:01"}
+{"id_questao": 617, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 6965.28, "data_geracao": "2026-05-07 01:21:13"}
+{"id_questao": 618, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 2575.84, "data_geracao": "2026-05-07 01:21:05"}
+{"id_questao": 618, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 863.27, "data_geracao": "2026-05-07 01:21:02"}
+{"id_questao": 618, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 5721.63, "data_geracao": "2026-05-07 01:21:19"}
+{"id_questao": 619, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 4077.3, "data_geracao": "2026-05-07 01:21:07"}
+{"id_questao": 619, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 827.21, "data_geracao": "2026-05-07 01:21:03"}
+{"id_questao": 619, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 6892.79, "data_geracao": "2026-05-07 01:21:16"}
+{"id_questao": 620, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 2674.08, "data_geracao": "2026-05-07 01:21:07"}
+{"id_questao": 620, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 1069.12, "data_geracao": "2026-05-07 01:21:05"}
+{"id_questao": 620, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 5428.75, "data_geracao": "2026-05-07 01:21:16"}
+{"id_questao": 621, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 3216.71, "data_geracao": "2026-05-07 01:21:08"}
+{"id_questao": 621, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 770.45, "data_geracao": "2026-05-07 01:21:06"}
+{"id_questao": 621, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 5893.19, "data_geracao": "2026-05-07 01:21:12"}
+{"id_questao": 622, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 6274.51, "data_geracao": "2026-05-07 01:21:14"}
+{"id_questao": 622, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 1157.83, "data_geracao": "2026-05-07 01:21:08"}
+{"id_questao": 622, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 8531.38, "data_geracao": "2026-05-07 01:21:16"}
+{"id_questao": 623, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "A", "tempo_inferencia_ms": 3023.22, "data_geracao": "2026-05-07 01:21:11"}
+{"id_questao": 623, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "A", "tempo_inferencia_ms": 873.57, "data_geracao": "2026-05-07 01:21:09"}
+{"id_questao": 623, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "A", "tempo_inferencia_ms": 4779.65, "data_geracao": "2026-05-07 01:21:13"}
+{"id_questao": 624, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 2860.83, "data_geracao": "2026-05-07 01:21:14"}
+{"id_questao": 624, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 761.53, "data_geracao": "2026-05-07 01:21:12"}
+{"id_questao": 624, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 6645.46, "data_geracao": "2026-05-07 01:21:19"}
+{"id_questao": 625, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 3673.24, "data_geracao": "2026-05-07 01:21:17"}
+{"id_questao": 625, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 1481.02, "data_geracao": "2026-05-07 01:21:14"}
+{"id_questao": 625, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 5798.84, "data_geracao": "2026-05-07 01:21:19"}
+{"id_questao": 626, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 2951.25, "data_geracao": "2026-05-07 01:21:17"}
+{"id_questao": 626, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 980.21, "data_geracao": "2026-05-07 01:21:15"}
+{"id_questao": 626, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 6460.23, "data_geracao": "2026-05-07 01:21:21"}
+{"id_questao": 627, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 2496.16, "data_geracao": "2026-05-07 01:21:17"}
+{"id_questao": 627, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 822.32, "data_geracao": "2026-05-07 01:21:15"}
+{"id_questao": 627, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 3122.14, "data_geracao": "2026-05-07 01:21:18"}
+{"id_questao": 628, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 4350.22, "data_geracao": "2026-05-07 01:21:20"}
+{"id_questao": 628, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 1545.72, "data_geracao": "2026-05-07 01:21:17"}
+{"id_questao": 628, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 12381.26, "data_geracao": "2026-05-07 01:21:28"}
+{"id_questao": 629, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 3166.71, "data_geracao": "2026-05-07 01:21:20"}
+{"id_questao": 629, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 717.48, "data_geracao": "2026-05-07 01:21:17"}
+{"id_questao": 629, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 5120.5, "data_geracao": "2026-05-07 01:21:22"}
+{"id_questao": 630, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 2898.54, "data_geracao": "2026-05-07 01:21:20"}
+{"id_questao": 630, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 1559.04, "data_geracao": "2026-05-07 01:21:18"}
+{"id_questao": 630, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 7625.48, "data_geracao": "2026-05-07 01:21:25"}
+{"id_questao": 631, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 6283.34, "data_geracao": "2026-05-07 01:21:24"}
+{"id_questao": 631, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 1430.33, "data_geracao": "2026-05-07 01:21:18"}
+{"id_questao": 631, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 65732.47, "data_geracao": "2026-05-07 01:22:24"}
+{"id_questao": 632, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 3171.03, "data_geracao": "2026-05-07 01:21:22"}
+{"id_questao": 632, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 844.27, "data_geracao": "2026-05-07 01:21:19"}
+{"id_questao": 632, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 6801.42, "data_geracao": "2026-05-07 01:21:26"}
+{"id_questao": 633, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "C", "tempo_inferencia_ms": 2379.35, "data_geracao": "2026-05-07 01:21:22"}
+{"id_questao": 633, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "C", "tempo_inferencia_ms": 913.63, "data_geracao": "2026-05-07 01:21:20"}
+{"id_questao": 633, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "C", "tempo_inferencia_ms": 4077.32, "data_geracao": "2026-05-07 01:21:24"}
+{"id_questao": 634, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 5575.43, "data_geracao": "2026-05-07 01:21:26"}
+{"id_questao": 634, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 687.98, "data_geracao": "2026-05-07 01:21:20"}
+{"id_questao": 634, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 14602.29, "data_geracao": "2026-05-07 01:21:35"}
+{"id_questao": 635, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "B", "tempo_inferencia_ms": 2672.18, "data_geracao": "2026-05-07 01:21:24"}
+{"id_questao": 635, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "B", "tempo_inferencia_ms": 828.14, "data_geracao": "2026-05-07 01:21:21"}
+{"id_questao": 635, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "B", "tempo_inferencia_ms": 4414.65, "data_geracao": "2026-05-07 01:21:26"}
+{"id_questao": 636, "nome_modelo": "gemini-3-flash-preview", "texto_resposta": "D", "tempo_inferencia_ms": 2780.15, "data_geracao": "2026-05-07 01:21:25"}
+{"id_questao": 636, "nome_modelo": "gemini-3.1-flash-lite-preview", "texto_resposta": "D", "tempo_inferencia_ms": 773.68, "data_geracao": "2026-05-07 01:21:22"}
+{"id_questao": 636, "nome_modelo": "gemini-3.1-pro-preview", "texto_resposta": "D", "tempo_inferencia_ms": 4470.34, "data_geracao": "2026-05-07 01:21:26"}
