@@ -1,318 +1,318 @@
-{"id_questao": 425, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "A", "tempo_inferencia_ms": 3520.54, "data_geracao": "2026-05-06 23:32:56"}
-{"id_questao": 425, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 3222.55, "data_geracao": "2026-05-06 23:33:01"}
-{"id_questao": 425, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 702.09, "data_geracao": "2026-05-06 23:33:04"}
-{"id_questao": 426, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 550.93, "data_geracao": "2026-05-06 23:33:09"}
-{"id_questao": 426, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 16015.96, "data_geracao": "2026-05-06 23:33:27"}
-{"id_questao": 426, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 476.12, "data_geracao": "2026-05-06 23:33:30"}
-{"id_questao": 427, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 930.39, "data_geracao": "2026-05-06 23:33:33"}
-{"id_questao": 427, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 20120.57, "data_geracao": "2026-05-06 23:33:55"}
-{"id_questao": 427, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 849.1, "data_geracao": "2026-05-06 23:33:57"}
-{"id_questao": 428, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "A", "tempo_inferencia_ms": 1477.69, "data_geracao": "2026-05-06 23:34:01"}
-{"id_questao": 428, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 24023.25, "data_geracao": "2026-05-06 23:34:27"}
-{"id_questao": 428, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 737.51, "data_geracao": "2026-05-06 23:34:30"}
-{"id_questao": 429, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 673.81, "data_geracao": "2026-05-06 23:34:32"}
-{"id_questao": 429, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 21000.07, "data_geracao": "2026-05-06 23:34:55"}
-{"id_questao": 429, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 591.85, "data_geracao": "2026-05-06 23:34:58"}
-{"id_questao": 430, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 917.87, "data_geracao": "2026-05-06 23:35:01"}
-{"id_questao": 430, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 29292.55, "data_geracao": "2026-05-06 23:35:32"}
-{"id_questao": 430, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 518.03, "data_geracao": "2026-05-06 23:35:35"}
-{"id_questao": 431, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 579.99, "data_geracao": "2026-05-06 23:35:37"}
-{"id_questao": 431, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 21280.28, "data_geracao": "2026-05-06 23:36:01"}
-{"id_questao": 431, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 535.28, "data_geracao": "2026-05-06 23:36:03"}
-{"id_questao": 432, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "A", "tempo_inferencia_ms": 647.98, "data_geracao": "2026-05-06 23:36:06"}
-{"id_questao": 432, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 31378.52, "data_geracao": "2026-05-06 23:36:39"}
-{"id_questao": 432, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 688.26, "data_geracao": "2026-05-06 23:36:42"}
-{"id_questao": 433, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 669.99, "data_geracao": "2026-05-06 23:36:45"}
-{"id_questao": 433, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 34128.58, "data_geracao": "2026-05-06 23:37:21"}
-{"id_questao": 433, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 577.22, "data_geracao": "2026-05-06 23:37:23"}
-{"id_questao": 434, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 396.49, "data_geracao": "2026-05-06 23:37:26"}
-{"id_questao": 434, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 10256.25, "data_geracao": "2026-05-06 23:37:41"}
-{"id_questao": 434, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 592.19, "data_geracao": "2026-05-06 23:37:43"}
-{"id_questao": 435, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 592.35, "data_geracao": "2026-05-06 23:37:46"}
-{"id_questao": 435, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 21347.39, "data_geracao": "2026-05-06 23:38:09"}
-{"id_questao": 435, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 792.15, "data_geracao": "2026-05-06 23:38:12"}
-{"id_questao": 436, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 394.41, "data_geracao": "2026-05-06 23:38:15"}
-{"id_questao": 436, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 36384.0, "data_geracao": "2026-05-06 23:38:53"}
-{"id_questao": 436, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 520.86, "data_geracao": "2026-05-06 23:38:55"}
-{"id_questao": 437, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 490.91, "data_geracao": "2026-05-06 23:38:58"}
-{"id_questao": 437, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 45575.99, "data_geracao": "2026-05-06 23:39:45"}
-{"id_questao": 437, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 426.29, "data_geracao": "2026-05-06 23:39:51"}
-{"id_questao": 438, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 798.94, "data_geracao": "2026-05-06 23:39:54"}
-{"id_questao": 438, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 16576.01, "data_geracao": "2026-05-06 23:40:12"}
-{"id_questao": 438, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 671.37, "data_geracao": "2026-05-06 23:40:15"}
-{"id_questao": 439, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "A", "tempo_inferencia_ms": 483.31, "data_geracao": "2026-05-06 23:40:17"}
-{"id_questao": 439, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 17547.16, "data_geracao": "2026-05-06 23:40:37"}
-{"id_questao": 439, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 874.65, "data_geracao": "2026-05-06 23:40:40"}
-{"id_questao": 440, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 627.08, "data_geracao": "2026-05-06 23:40:42"}
-{"id_questao": 440, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 51574.37, "data_geracao": "2026-05-06 23:41:36"}
-{"id_questao": 440, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 395.18, "data_geracao": "2026-05-06 23:41:38"}
-{"id_questao": 441, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "A", "tempo_inferencia_ms": 407.47, "data_geracao": "2026-05-06 23:41:41"}
-{"id_questao": 441, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 60382.71, "data_geracao": "2026-05-06 23:42:43"}
-{"id_questao": 441, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 560.64, "data_geracao": "2026-05-06 23:42:49"}
-{"id_questao": 442, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 834.42, "data_geracao": "2026-05-06 23:42:52"}
-{"id_questao": 442, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 69902.12, "data_geracao": "2026-05-06 23:44:03"}
-{"id_questao": 442, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 538.0, "data_geracao": "2026-05-06 23:44:06"}
-{"id_questao": 443, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 1259.36, "data_geracao": "2026-05-06 23:44:09"}
-{"id_questao": 443, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 34534.85, "data_geracao": "2026-05-06 23:44:46"}
-{"id_questao": 443, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 505.98, "data_geracao": "2026-05-06 23:44:48"}
-{"id_questao": 444, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 621.66, "data_geracao": "2026-05-06 23:44:51"}
-{"id_questao": 444, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 45356.97, "data_geracao": "2026-05-06 23:45:38"}
-{"id_questao": 444, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 646.91, "data_geracao": "2026-05-06 23:45:44"}
-{"id_questao": 445, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 568.98, "data_geracao": "2026-05-06 23:45:46"}
-{"id_questao": 445, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 29862.23, "data_geracao": "2026-05-06 23:46:18"}
-{"id_questao": 445, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 2554.14, "data_geracao": "2026-05-06 23:46:23"}
-{"id_questao": 446, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 728.56, "data_geracao": "2026-05-06 23:46:26"}
-{"id_questao": 446, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 9498.86, "data_geracao": "2026-05-06 23:46:37"}
-{"id_questao": 446, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 526.62, "data_geracao": "2026-05-06 23:46:40"}
-{"id_questao": 447, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 411.68, "data_geracao": "2026-05-06 23:46:42"}
-{"id_questao": 447, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 31604.73, "data_geracao": "2026-05-06 23:47:16"}
-{"id_questao": 447, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 804.01, "data_geracao": "2026-05-06 23:47:18"}
-{"id_questao": 448, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "A", "tempo_inferencia_ms": 855.8, "data_geracao": "2026-05-06 23:47:21"}
-{"id_questao": 448, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 21697.46, "data_geracao": "2026-05-06 23:47:45"}
-{"id_questao": 448, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 738.0, "data_geracao": "2026-05-06 23:47:48"}
-{"id_questao": 449, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 569.64, "data_geracao": "2026-05-06 23:47:50"}
-{"id_questao": 449, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 69034.22, "data_geracao": "2026-05-06 23:49:01"}
-{"id_questao": 449, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 802.76, "data_geracao": "2026-05-06 23:49:04"}
-{"id_questao": 450, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 491.4, "data_geracao": "2026-05-06 23:49:07"}
-{"id_questao": 450, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 60939.4, "data_geracao": "2026-05-06 23:50:10"}
-{"id_questao": 450, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 539.27, "data_geracao": "2026-05-06 23:50:12"}
-{"id_questao": 451, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 666.88, "data_geracao": "2026-05-06 23:50:15"}
-{"id_questao": 451, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 31603.38, "data_geracao": "2026-05-06 23:50:48"}
-{"id_questao": 451, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 348.26, "data_geracao": "2026-05-06 23:50:51"}
-{"id_questao": 452, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 820.26, "data_geracao": "2026-05-06 23:50:54"}
-{"id_questao": 452, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 16551.9, "data_geracao": "2026-05-06 23:51:12"}
-{"id_questao": 452, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 741.07, "data_geracao": "2026-05-06 23:51:15"}
-{"id_questao": 453, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 824.14, "data_geracao": "2026-05-06 23:51:18"}
-{"id_questao": 453, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 27809.58, "data_geracao": "2026-05-06 23:51:47"}
-{"id_questao": 453, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 443.82, "data_geracao": "2026-05-06 23:51:50"}
-{"id_questao": 454, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 594.43, "data_geracao": "2026-05-06 23:51:52"}
-{"id_questao": 454, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 8624.08, "data_geracao": "2026-05-06 23:52:03"}
-{"id_questao": 454, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 790.3, "data_geracao": "2026-05-06 23:52:06"}
-{"id_questao": 455, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 406.3, "data_geracao": "2026-05-06 23:52:11"}
-{"id_questao": 455, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 10295.56, "data_geracao": "2026-05-06 23:52:24"}
-{"id_questao": 455, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 626.89, "data_geracao": "2026-05-06 23:52:26"}
-{"id_questao": 456, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 599.86, "data_geracao": "2026-05-06 23:52:29"}
-{"id_questao": 456, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 21553.64, "data_geracao": "2026-05-06 23:52:52"}
-{"id_questao": 456, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 639.66, "data_geracao": "2026-05-06 23:52:55"}
-{"id_questao": 457, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 490.9, "data_geracao": "2026-05-06 23:52:57"}
-{"id_questao": 457, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 24875.16, "data_geracao": "2026-05-06 23:53:24"}
-{"id_questao": 457, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 551.12, "data_geracao": "2026-05-06 23:53:27"}
-{"id_questao": 458, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 620.79, "data_geracao": "2026-05-06 23:53:29"}
-{"id_questao": 458, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 8110.51, "data_geracao": "2026-05-06 23:53:40"}
-{"id_questao": 458, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 423.34, "data_geracao": "2026-05-06 23:53:42"}
-{"id_questao": 459, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 453.9, "data_geracao": "2026-05-06 23:53:44"}
-{"id_questao": 459, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 29771.33, "data_geracao": "2026-05-06 23:54:16"}
-{"id_questao": 459, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 450.07, "data_geracao": "2026-05-06 23:54:19"}
-{"id_questao": 460, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 499.73, "data_geracao": "2026-05-06 23:54:21"}
-{"id_questao": 460, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 28025.17, "data_geracao": "2026-05-06 23:54:51"}
-{"id_questao": 460, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 381.57, "data_geracao": "2026-05-06 23:54:54"}
-{"id_questao": 461, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 2426.38, "data_geracao": "2026-05-06 23:54:58"}
-{"id_questao": 461, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 12793.11, "data_geracao": "2026-05-06 23:55:13"}
-{"id_questao": 461, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 442.38, "data_geracao": "2026-05-06 23:55:15"}
-{"id_questao": 462, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 650.83, "data_geracao": "2026-05-06 23:55:18"}
-{"id_questao": 462, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 13958.74, "data_geracao": "2026-05-06 23:55:34"}
-{"id_questao": 462, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 607.58, "data_geracao": "2026-05-06 23:55:36"}
-{"id_questao": 463, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 499.5, "data_geracao": "2026-05-06 23:55:42"}
-{"id_questao": 463, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 7366.16, "data_geracao": "2026-05-06 23:55:51"}
-{"id_questao": 463, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 492.9, "data_geracao": "2026-05-06 23:55:54"}
-{"id_questao": 464, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 541.78, "data_geracao": "2026-05-06 23:55:56"}
-{"id_questao": 464, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 19150.23, "data_geracao": "2026-05-06 23:56:17"}
-{"id_questao": 464, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 829.86, "data_geracao": "2026-05-06 23:56:20"}
-{"id_questao": 465, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 699.23, "data_geracao": "2026-05-06 23:56:23"}
-{"id_questao": 465, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 10927.92, "data_geracao": "2026-05-06 23:56:36"}
-{"id_questao": 465, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 508.6, "data_geracao": "2026-05-06 23:56:38"}
-{"id_questao": 466, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 613.31, "data_geracao": "2026-05-06 23:56:41"}
-{"id_questao": 466, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 13052.17, "data_geracao": "2026-05-06 23:56:56"}
-{"id_questao": 466, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 550.73, "data_geracao": "2026-05-06 23:56:59"}
-{"id_questao": 467, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "A", "tempo_inferencia_ms": 578.93, "data_geracao": "2026-05-06 23:57:01"}
-{"id_questao": 467, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 4508.95, "data_geracao": "2026-05-06 23:57:08"}
-{"id_questao": 467, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 671.47, "data_geracao": "2026-05-06 23:57:10"}
-{"id_questao": 468, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 683.49, "data_geracao": "2026-05-06 23:57:13"}
-{"id_questao": 468, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 7260.51, "data_geracao": "2026-05-06 23:57:22"}
-{"id_questao": 468, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 367.84, "data_geracao": "2026-05-06 23:57:28"}
-{"id_questao": 469, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 725.59, "data_geracao": "2026-05-06 23:57:30"}
-{"id_questao": 469, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 13150.93, "data_geracao": "2026-05-06 23:57:46"}
-{"id_questao": 469, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 745.89, "data_geracao": "2026-05-06 23:57:48"}
-{"id_questao": 470, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 423.41, "data_geracao": "2026-05-06 23:57:51"}
-{"id_questao": 470, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 9188.93, "data_geracao": "2026-05-06 23:58:02"}
-{"id_questao": 470, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 791.71, "data_geracao": "2026-05-06 23:58:05"}
-{"id_questao": 471, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "A", "tempo_inferencia_ms": 383.02, "data_geracao": "2026-05-06 23:58:07"}
-{"id_questao": 471, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 12179.2, "data_geracao": "2026-05-06 23:58:21"}
-{"id_questao": 471, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 535.4, "data_geracao": "2026-05-06 23:58:24"}
-{"id_questao": 472, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 456.52, "data_geracao": "2026-05-06 23:58:26"}
-{"id_questao": 472, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 12178.55, "data_geracao": "2026-05-06 23:58:40"}
-{"id_questao": 472, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 567.17, "data_geracao": "2026-05-06 23:58:43"}
-{"id_questao": 473, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "A", "tempo_inferencia_ms": 581.94, "data_geracao": "2026-05-06 23:58:46"}
-{"id_questao": 473, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 8791.4, "data_geracao": "2026-05-06 23:58:56"}
-{"id_questao": 473, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 668.7, "data_geracao": "2026-05-06 23:58:59"}
-{"id_questao": 474, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 468.17, "data_geracao": "2026-05-06 23:59:01"}
-{"id_questao": 474, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 7251.53, "data_geracao": "2026-05-06 23:59:11"}
-{"id_questao": 474, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 638.02, "data_geracao": "2026-05-06 23:59:16"}
-{"id_questao": 475, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 560.32, "data_geracao": "2026-05-06 23:59:19"}
-{"id_questao": 475, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 18962.97, "data_geracao": "2026-05-06 23:59:40"}
-{"id_questao": 475, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 368.73, "data_geracao": "2026-05-06 23:59:42"}
-{"id_questao": 476, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 517.14, "data_geracao": "2026-05-06 23:59:45"}
-{"id_questao": 476, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 22326.1, "data_geracao": "2026-05-07 00:00:09"}
-{"id_questao": 476, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 800.41, "data_geracao": "2026-05-07 00:00:12"}
-{"id_questao": 477, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 426.32, "data_geracao": "2026-05-07 00:00:14"}
-{"id_questao": 477, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 16600.63, "data_geracao": "2026-05-07 00:00:33"}
-{"id_questao": 477, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 673.04, "data_geracao": "2026-05-07 00:00:36"}
-{"id_questao": 478, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 507.21, "data_geracao": "2026-05-07 00:00:38"}
-{"id_questao": 478, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 11489.08, "data_geracao": "2026-05-07 00:00:52"}
-{"id_questao": 478, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 626.34, "data_geracao": "2026-05-07 00:00:54"}
-{"id_questao": 479, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 1023.33, "data_geracao": "2026-05-07 00:00:57"}
-{"id_questao": 479, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 19857.96, "data_geracao": "2026-05-07 00:01:22"}
-{"id_questao": 479, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 468.2, "data_geracao": "2026-05-07 00:01:24"}
-{"id_questao": 480, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "A", "tempo_inferencia_ms": 739.09, "data_geracao": "2026-05-07 00:01:27"}
-{"id_questao": 480, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 20108.63, "data_geracao": "2026-05-07 00:01:49"}
-{"id_questao": 480, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 1545.42, "data_geracao": "2026-05-07 00:01:53"}
-{"id_questao": 481, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 1069.89, "data_geracao": "2026-05-07 00:01:56"}
-{"id_questao": 481, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 4623.51, "data_geracao": "2026-05-07 00:02:03"}
-{"id_questao": 481, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 1092.0, "data_geracao": "2026-05-07 00:02:06"}
-{"id_questao": 482, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 3518.14, "data_geracao": "2026-05-07 00:02:11"}
-{"id_questao": 482, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 27018.23, "data_geracao": "2026-05-07 00:02:40"}
-{"id_questao": 482, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 4185.78, "data_geracao": "2026-05-07 00:02:46"}
-{"id_questao": 483, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 683.5, "data_geracao": "2026-05-07 00:02:49"}
-{"id_questao": 483, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 20679.05, "data_geracao": "2026-05-07 00:03:12"}
-{"id_questao": 483, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 675.4, "data_geracao": "2026-05-07 00:03:14"}
-{"id_questao": 484, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 1759.36, "data_geracao": "2026-05-07 00:03:18"}
-{"id_questao": 484, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 18957.45, "data_geracao": "2026-05-07 00:03:42"}
-{"id_questao": 484, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 579.5, "data_geracao": "2026-05-07 00:03:45"}
-{"id_questao": 485, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 662.16, "data_geracao": "2026-05-07 00:03:47"}
-{"id_questao": 485, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 20967.18, "data_geracao": "2026-05-07 00:04:10"}
-{"id_questao": 485, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 602.11, "data_geracao": "2026-05-07 00:04:13"}
-{"id_questao": 486, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "A", "tempo_inferencia_ms": 607.63, "data_geracao": "2026-05-07 00:04:15"}
-{"id_questao": 486, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 11041.91, "data_geracao": "2026-05-07 00:04:29"}
-{"id_questao": 486, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 471.7, "data_geracao": "2026-05-07 00:04:34"}
-{"id_questao": 487, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 724.64, "data_geracao": "2026-05-07 00:04:37"}
-{"id_questao": 487, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 15117.37, "data_geracao": "2026-05-07 00:04:54"}
-{"id_questao": 487, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 417.64, "data_geracao": "2026-05-07 00:04:56"}
-{"id_questao": 488, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 667.62, "data_geracao": "2026-05-07 00:04:59"}
-{"id_questao": 488, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 17357.56, "data_geracao": "2026-05-07 00:05:18"}
-{"id_questao": 488, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 561.86, "data_geracao": "2026-05-07 00:05:25"}
-{"id_questao": 489, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 418.9, "data_geracao": "2026-05-07 00:05:28"}
-{"id_questao": 489, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 8871.04, "data_geracao": "2026-05-07 00:05:38"}
-{"id_questao": 489, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 577.24, "data_geracao": "2026-05-07 00:05:41"}
-{"id_questao": 490, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 486.96, "data_geracao": "2026-05-07 00:05:43"}
-{"id_questao": 490, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 8537.66, "data_geracao": "2026-05-07 00:05:54"}
-{"id_questao": 490, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 498.94, "data_geracao": "2026-05-07 00:05:57"}
-{"id_questao": 491, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 711.17, "data_geracao": "2026-05-07 00:05:59"}
-{"id_questao": 491, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 23016.23, "data_geracao": "2026-05-07 00:06:24"}
-{"id_questao": 491, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 511.3, "data_geracao": "2026-05-07 00:06:27"}
-{"id_questao": 492, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 866.12, "data_geracao": "2026-05-07 00:06:30"}
-{"id_questao": 492, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 12939.73, "data_geracao": "2026-05-07 00:06:45"}
-{"id_questao": 492, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 351.96, "data_geracao": "2026-05-07 00:06:47"}
-{"id_questao": 493, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "A", "tempo_inferencia_ms": 629.18, "data_geracao": "2026-05-07 00:06:52"}
-{"id_questao": 493, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 13396.46, "data_geracao": "2026-05-07 00:07:08"}
-{"id_questao": 493, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 546.78, "data_geracao": "2026-05-07 00:07:10"}
-{"id_questao": 494, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 864.33, "data_geracao": "2026-05-07 00:07:13"}
-{"id_questao": 494, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 23431.63, "data_geracao": "2026-05-07 00:07:39"}
-{"id_questao": 494, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 719.16, "data_geracao": "2026-05-07 00:07:41"}
-{"id_questao": 495, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 637.76, "data_geracao": "2026-05-07 00:07:44"}
-{"id_questao": 495, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 19460.87, "data_geracao": "2026-05-07 00:08:06"}
-{"id_questao": 495, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 380.41, "data_geracao": "2026-05-07 00:08:08"}
-{"id_questao": 496, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 633.73, "data_geracao": "2026-05-07 00:08:11"}
-{"id_questao": 496, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 26187.74, "data_geracao": "2026-05-07 00:08:39"}
-{"id_questao": 496, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 551.89, "data_geracao": "2026-05-07 00:08:41"}
-{"id_questao": 497, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 650.96, "data_geracao": "2026-05-07 00:08:44"}
-{"id_questao": 497, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 15481.44, "data_geracao": "2026-05-07 00:09:01"}
-{"id_questao": 497, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 663.37, "data_geracao": "2026-05-07 00:09:04"}
-{"id_questao": 498, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 464.39, "data_geracao": "2026-05-07 00:09:07"}
-{"id_questao": 498, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 15654.15, "data_geracao": "2026-05-07 00:09:27"}
-{"id_questao": 498, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 634.07, "data_geracao": "2026-05-07 00:09:30"}
-{"id_questao": 499, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "A", "tempo_inferencia_ms": 442.53, "data_geracao": "2026-05-07 00:09:32"}
-{"id_questao": 499, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 20769.75, "data_geracao": "2026-05-07 00:09:55"}
-{"id_questao": 499, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 646.64, "data_geracao": "2026-05-07 00:09:58"}
-{"id_questao": 500, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 683.47, "data_geracao": "2026-05-07 00:10:00"}
-{"id_questao": 500, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 15709.84, "data_geracao": "2026-05-07 00:10:18"}
-{"id_questao": 500, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 602.26, "data_geracao": "2026-05-07 00:10:24"}
-{"id_questao": 501, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 408.52, "data_geracao": "2026-05-07 00:10:26"}
-{"id_questao": 501, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 19696.3, "data_geracao": "2026-05-07 00:10:48"}
-{"id_questao": 501, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 410.29, "data_geracao": "2026-05-07 00:10:50"}
-{"id_questao": 502, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 559.66, "data_geracao": "2026-05-07 00:10:53"}
-{"id_questao": 502, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 30707.7, "data_geracao": "2026-05-07 00:11:28"}
-{"id_questao": 502, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 814.77, "data_geracao": "2026-05-07 00:11:34"}
-{"id_questao": 503, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 403.62, "data_geracao": "2026-05-07 00:11:36"}
-{"id_questao": 503, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 31634.33, "data_geracao": "2026-05-07 00:12:10"}
-{"id_questao": 503, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 526.37, "data_geracao": "2026-05-07 00:12:13"}
-{"id_questao": 504, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 433.89, "data_geracao": "2026-05-07 00:12:15"}
-{"id_questao": 504, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 35908.57, "data_geracao": "2026-05-07 00:12:53"}
-{"id_questao": 504, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 450.43, "data_geracao": "2026-05-07 00:12:55"}
-{"id_questao": 505, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 663.9, "data_geracao": "2026-05-07 00:12:58"}
-{"id_questao": 505, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 12594.3, "data_geracao": "2026-05-07 00:13:13"}
-{"id_questao": 505, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 391.59, "data_geracao": "2026-05-07 00:13:18"}
-{"id_questao": 506, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 672.46, "data_geracao": "2026-05-07 00:13:21"}
-{"id_questao": 506, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 18807.99, "data_geracao": "2026-05-07 00:13:41"}
-{"id_questao": 506, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 367.4, "data_geracao": "2026-05-07 00:13:44"}
-{"id_questao": 507, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 472.92, "data_geracao": "2026-05-07 00:13:46"}
-{"id_questao": 507, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 19728.9, "data_geracao": "2026-05-07 00:14:08"}
-{"id_questao": 507, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 839.8, "data_geracao": "2026-05-07 00:14:11"}
-{"id_questao": 508, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 603.62, "data_geracao": "2026-05-07 00:14:13"}
-{"id_questao": 508, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 13532.44, "data_geracao": "2026-05-07 00:14:29"}
-{"id_questao": 508, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 428.52, "data_geracao": "2026-05-07 00:14:31"}
-{"id_questao": 509, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 508.6, "data_geracao": "2026-05-07 00:14:34"}
-{"id_questao": 509, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 22423.18, "data_geracao": "2026-05-07 00:14:58"}
-{"id_questao": 509, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 422.02, "data_geracao": "2026-05-07 00:15:04"}
-{"id_questao": 510, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 607.37, "data_geracao": "2026-05-07 00:15:06"}
-{"id_questao": 510, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 16138.26, "data_geracao": "2026-05-07 00:15:24"}
-{"id_questao": 510, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 533.88, "data_geracao": "2026-05-07 00:15:27"}
-{"id_questao": 511, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "A", "tempo_inferencia_ms": 979.84, "data_geracao": "2026-05-07 00:15:30"}
-{"id_questao": 511, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 12066.62, "data_geracao": "2026-05-07 00:15:44"}
-{"id_questao": 511, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 2040.13, "data_geracao": "2026-05-07 00:15:48"}
-{"id_questao": 512, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 4908.66, "data_geracao": "2026-05-07 00:15:55"}
-{"id_questao": 512, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 48033.54, "data_geracao": "2026-05-07 00:16:45"}
-{"id_questao": 512, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 388.08, "data_geracao": "2026-05-07 00:16:47"}
-{"id_questao": 513, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 850.15, "data_geracao": "2026-05-07 00:16:50"}
-{"id_questao": 513, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 21785.59, "data_geracao": "2026-05-07 00:17:14"}
-{"id_questao": 513, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 664.85, "data_geracao": "2026-05-07 00:17:17"}
-{"id_questao": 514, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "A", "tempo_inferencia_ms": 935.3, "data_geracao": "2026-05-07 00:17:20"}
-{"id_questao": 514, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 37941.0, "data_geracao": "2026-05-07 00:18:00"}
-{"id_questao": 514, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 685.01, "data_geracao": "2026-05-07 00:18:02"}
-{"id_questao": 515, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 408.01, "data_geracao": "2026-05-07 00:18:05"}
-{"id_questao": 515, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 30963.4, "data_geracao": "2026-05-07 00:18:38"}
-{"id_questao": 515, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 539.94, "data_geracao": "2026-05-07 00:18:40"}
-{"id_questao": 516, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 503.73, "data_geracao": "2026-05-07 00:18:43"}
-{"id_questao": 516, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 17028.79, "data_geracao": "2026-05-07 00:19:02"}
-{"id_questao": 516, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 466.55, "data_geracao": "2026-05-07 00:19:04"}
-{"id_questao": 517, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 567.48, "data_geracao": "2026-05-07 00:19:07"}
-{"id_questao": 517, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 25700.51, "data_geracao": "2026-05-07 00:19:34"}
-{"id_questao": 517, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 846.58, "data_geracao": "2026-05-07 00:19:37"}
-{"id_questao": 518, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 596.03, "data_geracao": "2026-05-07 00:19:40"}
-{"id_questao": 518, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 61659.84, "data_geracao": "2026-05-07 00:20:44"}
-{"id_questao": 518, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 1048.37, "data_geracao": "2026-05-07 00:20:47"}
-{"id_questao": 519, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 462.52, "data_geracao": "2026-05-07 00:20:49"}
-{"id_questao": 519, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 72468.86, "data_geracao": "2026-05-07 00:22:04"}
-{"id_questao": 519, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 579.83, "data_geracao": "2026-05-07 00:22:06"}
-{"id_questao": 520, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 424.59, "data_geracao": "2026-05-07 00:22:09"}
-{"id_questao": 520, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 54168.93, "data_geracao": "2026-05-07 00:23:05"}
-{"id_questao": 520, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 818.03, "data_geracao": "2026-05-07 00:23:08"}
-{"id_questao": 521, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 604.76, "data_geracao": "2026-05-07 00:23:10"}
-{"id_questao": 521, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 26856.56, "data_geracao": "2026-05-07 00:23:39"}
-{"id_questao": 521, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 979.6, "data_geracao": "2026-05-07 00:23:42"}
-{"id_questao": 522, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 728.76, "data_geracao": "2026-05-07 00:23:45"}
-{"id_questao": 522, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 33289.18, "data_geracao": "2026-05-07 00:24:20"}
-{"id_questao": 522, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 1007.82, "data_geracao": "2026-05-07 00:24:23"}
-{"id_questao": 523, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 668.74, "data_geracao": "2026-05-07 00:24:26"}
-{"id_questao": 523, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 62339.96, "data_geracao": "2026-05-07 00:25:30"}
-{"id_questao": 523, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 519.86, "data_geracao": "2026-05-07 00:25:33"}
-{"id_questao": 524, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 440.7, "data_geracao": "2026-05-07 00:25:35"}
-{"id_questao": 524, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 53610.7, "data_geracao": "2026-05-07 00:26:31"}
-{"id_questao": 524, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 1059.18, "data_geracao": "2026-05-07 00:26:34"}
-{"id_questao": 525, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 445.93, "data_geracao": "2026-05-07 00:26:36"}
-{"id_questao": 525, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 13031.03, "data_geracao": "2026-05-07 00:26:51"}
-{"id_questao": 525, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 660.84, "data_geracao": "2026-05-07 00:26:54"}
-{"id_questao": 526, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "B", "tempo_inferencia_ms": 693.59, "data_geracao": "2026-05-07 00:26:56"}
-{"id_questao": 526, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 20363.11, "data_geracao": "2026-05-07 00:27:19"}
-{"id_questao": 526, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 979.13, "data_geracao": "2026-05-07 00:27:22"}
-{"id_questao": 527, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "A", "tempo_inferencia_ms": 996.73, "data_geracao": "2026-05-07 00:27:25"}
-{"id_questao": 527, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "C", "tempo_inferencia_ms": 58126.22, "data_geracao": "2026-05-07 00:28:25"}
-{"id_questao": 527, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "C", "tempo_inferencia_ms": 488.53, "data_geracao": "2026-05-07 00:28:27"}
-{"id_questao": 528, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "A", "tempo_inferencia_ms": 466.84, "data_geracao": "2026-05-07 00:28:30"}
-{"id_questao": 528, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "B", "tempo_inferencia_ms": 37438.82, "data_geracao": "2026-05-07 00:29:09"}
-{"id_questao": 528, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "B", "tempo_inferencia_ms": 513.24, "data_geracao": "2026-05-07 00:29:12"}
-{"id_questao": 529, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "C", "tempo_inferencia_ms": 695.0, "data_geracao": "2026-05-07 00:29:15"}
-{"id_questao": 529, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "A", "tempo_inferencia_ms": 17328.7, "data_geracao": "2026-05-07 00:29:34"}
-{"id_questao": 529, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "A", "tempo_inferencia_ms": 408.09, "data_geracao": "2026-05-07 00:29:36"}
-{"id_questao": 530, "nome_modelo": "gpt-5.4-nano-2026-03-17", "texto_resposta": "D", "tempo_inferencia_ms": 391.03, "data_geracao": "2026-05-07 00:29:39"}
-{"id_questao": 530, "nome_modelo": "gpt-5-nano-2025-08-07", "texto_resposta": "D", "tempo_inferencia_ms": 23056.66, "data_geracao": "2026-05-07 00:30:04"}
-{"id_questao": 530, "nome_modelo": "gpt-4.1-nano-2025-04-14", "texto_resposta": "D", "tempo_inferencia_ms": 681.3, "data_geracao": "2026-05-07 00:30:06"}
+{"id_questao": 425, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 3520.54, "data_geracao": "2026-05-06 23:32:56"}
+{"id_questao": 425, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 3222.55, "data_geracao": "2026-05-06 23:33:01"}
+{"id_questao": 425, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 702.09, "data_geracao": "2026-05-06 23:33:04"}
+{"id_questao": 426, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 550.93, "data_geracao": "2026-05-06 23:33:09"}
+{"id_questao": 426, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 16015.96, "data_geracao": "2026-05-06 23:33:27"}
+{"id_questao": 426, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 476.12, "data_geracao": "2026-05-06 23:33:30"}
+{"id_questao": 427, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 930.39, "data_geracao": "2026-05-06 23:33:33"}
+{"id_questao": 427, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 20120.57, "data_geracao": "2026-05-06 23:33:55"}
+{"id_questao": 427, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 849.1, "data_geracao": "2026-05-06 23:33:57"}
+{"id_questao": 428, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 1477.69, "data_geracao": "2026-05-06 23:34:01"}
+{"id_questao": 428, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 24023.25, "data_geracao": "2026-05-06 23:34:27"}
+{"id_questao": 428, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 737.51, "data_geracao": "2026-05-06 23:34:30"}
+{"id_questao": 429, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 673.81, "data_geracao": "2026-05-06 23:34:32"}
+{"id_questao": 429, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 21000.07, "data_geracao": "2026-05-06 23:34:55"}
+{"id_questao": 429, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 591.85, "data_geracao": "2026-05-06 23:34:58"}
+{"id_questao": 430, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 917.87, "data_geracao": "2026-05-06 23:35:01"}
+{"id_questao": 430, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 29292.55, "data_geracao": "2026-05-06 23:35:32"}
+{"id_questao": 430, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 518.03, "data_geracao": "2026-05-06 23:35:35"}
+{"id_questao": 431, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 579.99, "data_geracao": "2026-05-06 23:35:37"}
+{"id_questao": 431, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 21280.28, "data_geracao": "2026-05-06 23:36:01"}
+{"id_questao": 431, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 535.28, "data_geracao": "2026-05-06 23:36:03"}
+{"id_questao": 432, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 647.98, "data_geracao": "2026-05-06 23:36:06"}
+{"id_questao": 432, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 31378.52, "data_geracao": "2026-05-06 23:36:39"}
+{"id_questao": 432, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 688.26, "data_geracao": "2026-05-06 23:36:42"}
+{"id_questao": 433, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 669.99, "data_geracao": "2026-05-06 23:36:45"}
+{"id_questao": 433, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 34128.58, "data_geracao": "2026-05-06 23:37:21"}
+{"id_questao": 433, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 577.22, "data_geracao": "2026-05-06 23:37:23"}
+{"id_questao": 434, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 396.49, "data_geracao": "2026-05-06 23:37:26"}
+{"id_questao": 434, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 10256.25, "data_geracao": "2026-05-06 23:37:41"}
+{"id_questao": 434, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 592.19, "data_geracao": "2026-05-06 23:37:43"}
+{"id_questao": 435, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 592.35, "data_geracao": "2026-05-06 23:37:46"}
+{"id_questao": 435, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 21347.39, "data_geracao": "2026-05-06 23:38:09"}
+{"id_questao": 435, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 792.15, "data_geracao": "2026-05-06 23:38:12"}
+{"id_questao": 436, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 394.41, "data_geracao": "2026-05-06 23:38:15"}
+{"id_questao": 436, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 36384.0, "data_geracao": "2026-05-06 23:38:53"}
+{"id_questao": 436, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 520.86, "data_geracao": "2026-05-06 23:38:55"}
+{"id_questao": 437, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 490.91, "data_geracao": "2026-05-06 23:38:58"}
+{"id_questao": 437, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 45575.99, "data_geracao": "2026-05-06 23:39:45"}
+{"id_questao": 437, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 426.29, "data_geracao": "2026-05-06 23:39:51"}
+{"id_questao": 438, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 798.94, "data_geracao": "2026-05-06 23:39:54"}
+{"id_questao": 438, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 16576.01, "data_geracao": "2026-05-06 23:40:12"}
+{"id_questao": 438, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 671.37, "data_geracao": "2026-05-06 23:40:15"}
+{"id_questao": 439, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 483.31, "data_geracao": "2026-05-06 23:40:17"}
+{"id_questao": 439, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 17547.16, "data_geracao": "2026-05-06 23:40:37"}
+{"id_questao": 439, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 874.65, "data_geracao": "2026-05-06 23:40:40"}
+{"id_questao": 440, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 627.08, "data_geracao": "2026-05-06 23:40:42"}
+{"id_questao": 440, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 51574.37, "data_geracao": "2026-05-06 23:41:36"}
+{"id_questao": 440, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 395.18, "data_geracao": "2026-05-06 23:41:38"}
+{"id_questao": 441, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 407.47, "data_geracao": "2026-05-06 23:41:41"}
+{"id_questao": 441, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 60382.71, "data_geracao": "2026-05-06 23:42:43"}
+{"id_questao": 441, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 560.64, "data_geracao": "2026-05-06 23:42:49"}
+{"id_questao": 442, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 834.42, "data_geracao": "2026-05-06 23:42:52"}
+{"id_questao": 442, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 69902.12, "data_geracao": "2026-05-06 23:44:03"}
+{"id_questao": 442, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 538.0, "data_geracao": "2026-05-06 23:44:06"}
+{"id_questao": 443, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 1259.36, "data_geracao": "2026-05-06 23:44:09"}
+{"id_questao": 443, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 34534.85, "data_geracao": "2026-05-06 23:44:46"}
+{"id_questao": 443, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 505.98, "data_geracao": "2026-05-06 23:44:48"}
+{"id_questao": 444, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 621.66, "data_geracao": "2026-05-06 23:44:51"}
+{"id_questao": 444, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 45356.97, "data_geracao": "2026-05-06 23:45:38"}
+{"id_questao": 444, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 646.91, "data_geracao": "2026-05-06 23:45:44"}
+{"id_questao": 445, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 568.98, "data_geracao": "2026-05-06 23:45:46"}
+{"id_questao": 445, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 29862.23, "data_geracao": "2026-05-06 23:46:18"}
+{"id_questao": 445, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 2554.14, "data_geracao": "2026-05-06 23:46:23"}
+{"id_questao": 446, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 728.56, "data_geracao": "2026-05-06 23:46:26"}
+{"id_questao": 446, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 9498.86, "data_geracao": "2026-05-06 23:46:37"}
+{"id_questao": 446, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 526.62, "data_geracao": "2026-05-06 23:46:40"}
+{"id_questao": 447, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 411.68, "data_geracao": "2026-05-06 23:46:42"}
+{"id_questao": 447, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 31604.73, "data_geracao": "2026-05-06 23:47:16"}
+{"id_questao": 447, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 804.01, "data_geracao": "2026-05-06 23:47:18"}
+{"id_questao": 448, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 855.8, "data_geracao": "2026-05-06 23:47:21"}
+{"id_questao": 448, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 21697.46, "data_geracao": "2026-05-06 23:47:45"}
+{"id_questao": 448, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 738.0, "data_geracao": "2026-05-06 23:47:48"}
+{"id_questao": 449, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 569.64, "data_geracao": "2026-05-06 23:47:50"}
+{"id_questao": 449, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 69034.22, "data_geracao": "2026-05-06 23:49:01"}
+{"id_questao": 449, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 802.76, "data_geracao": "2026-05-06 23:49:04"}
+{"id_questao": 450, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 491.4, "data_geracao": "2026-05-06 23:49:07"}
+{"id_questao": 450, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 60939.4, "data_geracao": "2026-05-06 23:50:10"}
+{"id_questao": 450, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 539.27, "data_geracao": "2026-05-06 23:50:12"}
+{"id_questao": 451, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 666.88, "data_geracao": "2026-05-06 23:50:15"}
+{"id_questao": 451, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 31603.38, "data_geracao": "2026-05-06 23:50:48"}
+{"id_questao": 451, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 348.26, "data_geracao": "2026-05-06 23:50:51"}
+{"id_questao": 452, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 820.26, "data_geracao": "2026-05-06 23:50:54"}
+{"id_questao": 452, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 16551.9, "data_geracao": "2026-05-06 23:51:12"}
+{"id_questao": 452, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 741.07, "data_geracao": "2026-05-06 23:51:15"}
+{"id_questao": 453, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 824.14, "data_geracao": "2026-05-06 23:51:18"}
+{"id_questao": 453, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 27809.58, "data_geracao": "2026-05-06 23:51:47"}
+{"id_questao": 453, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 443.82, "data_geracao": "2026-05-06 23:51:50"}
+{"id_questao": 454, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 594.43, "data_geracao": "2026-05-06 23:51:52"}
+{"id_questao": 454, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 8624.08, "data_geracao": "2026-05-06 23:52:03"}
+{"id_questao": 454, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 790.3, "data_geracao": "2026-05-06 23:52:06"}
+{"id_questao": 455, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 406.3, "data_geracao": "2026-05-06 23:52:11"}
+{"id_questao": 455, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 10295.56, "data_geracao": "2026-05-06 23:52:24"}
+{"id_questao": 455, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 626.89, "data_geracao": "2026-05-06 23:52:26"}
+{"id_questao": 456, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 599.86, "data_geracao": "2026-05-06 23:52:29"}
+{"id_questao": 456, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 21553.64, "data_geracao": "2026-05-06 23:52:52"}
+{"id_questao": 456, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 639.66, "data_geracao": "2026-05-06 23:52:55"}
+{"id_questao": 457, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 490.9, "data_geracao": "2026-05-06 23:52:57"}
+{"id_questao": 457, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 24875.16, "data_geracao": "2026-05-06 23:53:24"}
+{"id_questao": 457, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 551.12, "data_geracao": "2026-05-06 23:53:27"}
+{"id_questao": 458, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 620.79, "data_geracao": "2026-05-06 23:53:29"}
+{"id_questao": 458, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 8110.51, "data_geracao": "2026-05-06 23:53:40"}
+{"id_questao": 458, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 423.34, "data_geracao": "2026-05-06 23:53:42"}
+{"id_questao": 459, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 453.9, "data_geracao": "2026-05-06 23:53:44"}
+{"id_questao": 459, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 29771.33, "data_geracao": "2026-05-06 23:54:16"}
+{"id_questao": 459, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 450.07, "data_geracao": "2026-05-06 23:54:19"}
+{"id_questao": 460, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 499.73, "data_geracao": "2026-05-06 23:54:21"}
+{"id_questao": 460, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 28025.17, "data_geracao": "2026-05-06 23:54:51"}
+{"id_questao": 460, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 381.57, "data_geracao": "2026-05-06 23:54:54"}
+{"id_questao": 461, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 2426.38, "data_geracao": "2026-05-06 23:54:58"}
+{"id_questao": 461, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 12793.11, "data_geracao": "2026-05-06 23:55:13"}
+{"id_questao": 461, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 442.38, "data_geracao": "2026-05-06 23:55:15"}
+{"id_questao": 462, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 650.83, "data_geracao": "2026-05-06 23:55:18"}
+{"id_questao": 462, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 13958.74, "data_geracao": "2026-05-06 23:55:34"}
+{"id_questao": 462, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 607.58, "data_geracao": "2026-05-06 23:55:36"}
+{"id_questao": 463, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 499.5, "data_geracao": "2026-05-06 23:55:42"}
+{"id_questao": 463, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 7366.16, "data_geracao": "2026-05-06 23:55:51"}
+{"id_questao": 463, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 492.9, "data_geracao": "2026-05-06 23:55:54"}
+{"id_questao": 464, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 541.78, "data_geracao": "2026-05-06 23:55:56"}
+{"id_questao": 464, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 19150.23, "data_geracao": "2026-05-06 23:56:17"}
+{"id_questao": 464, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 829.86, "data_geracao": "2026-05-06 23:56:20"}
+{"id_questao": 465, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 699.23, "data_geracao": "2026-05-06 23:56:23"}
+{"id_questao": 465, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 10927.92, "data_geracao": "2026-05-06 23:56:36"}
+{"id_questao": 465, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 508.6, "data_geracao": "2026-05-06 23:56:38"}
+{"id_questao": 466, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 613.31, "data_geracao": "2026-05-06 23:56:41"}
+{"id_questao": 466, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 13052.17, "data_geracao": "2026-05-06 23:56:56"}
+{"id_questao": 466, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 550.73, "data_geracao": "2026-05-06 23:56:59"}
+{"id_questao": 467, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 578.93, "data_geracao": "2026-05-06 23:57:01"}
+{"id_questao": 467, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 4508.95, "data_geracao": "2026-05-06 23:57:08"}
+{"id_questao": 467, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 671.47, "data_geracao": "2026-05-06 23:57:10"}
+{"id_questao": 468, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 683.49, "data_geracao": "2026-05-06 23:57:13"}
+{"id_questao": 468, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 7260.51, "data_geracao": "2026-05-06 23:57:22"}
+{"id_questao": 468, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 367.84, "data_geracao": "2026-05-06 23:57:28"}
+{"id_questao": 469, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 725.59, "data_geracao": "2026-05-06 23:57:30"}
+{"id_questao": 469, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 13150.93, "data_geracao": "2026-05-06 23:57:46"}
+{"id_questao": 469, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 745.89, "data_geracao": "2026-05-06 23:57:48"}
+{"id_questao": 470, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 423.41, "data_geracao": "2026-05-06 23:57:51"}
+{"id_questao": 470, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 9188.93, "data_geracao": "2026-05-06 23:58:02"}
+{"id_questao": 470, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 791.71, "data_geracao": "2026-05-06 23:58:05"}
+{"id_questao": 471, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 383.02, "data_geracao": "2026-05-06 23:58:07"}
+{"id_questao": 471, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 12179.2, "data_geracao": "2026-05-06 23:58:21"}
+{"id_questao": 471, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 535.4, "data_geracao": "2026-05-06 23:58:24"}
+{"id_questao": 472, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 456.52, "data_geracao": "2026-05-06 23:58:26"}
+{"id_questao": 472, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 12178.55, "data_geracao": "2026-05-06 23:58:40"}
+{"id_questao": 472, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 567.17, "data_geracao": "2026-05-06 23:58:43"}
+{"id_questao": 473, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 581.94, "data_geracao": "2026-05-06 23:58:46"}
+{"id_questao": 473, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 8791.4, "data_geracao": "2026-05-06 23:58:56"}
+{"id_questao": 473, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 668.7, "data_geracao": "2026-05-06 23:58:59"}
+{"id_questao": 474, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 468.17, "data_geracao": "2026-05-06 23:59:01"}
+{"id_questao": 474, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 7251.53, "data_geracao": "2026-05-06 23:59:11"}
+{"id_questao": 474, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 638.02, "data_geracao": "2026-05-06 23:59:16"}
+{"id_questao": 475, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 560.32, "data_geracao": "2026-05-06 23:59:19"}
+{"id_questao": 475, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 18962.97, "data_geracao": "2026-05-06 23:59:40"}
+{"id_questao": 475, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 368.73, "data_geracao": "2026-05-06 23:59:42"}
+{"id_questao": 476, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 517.14, "data_geracao": "2026-05-06 23:59:45"}
+{"id_questao": 476, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 22326.1, "data_geracao": "2026-05-07 00:00:09"}
+{"id_questao": 476, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 800.41, "data_geracao": "2026-05-07 00:00:12"}
+{"id_questao": 477, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 426.32, "data_geracao": "2026-05-07 00:00:14"}
+{"id_questao": 477, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 16600.63, "data_geracao": "2026-05-07 00:00:33"}
+{"id_questao": 477, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 673.04, "data_geracao": "2026-05-07 00:00:36"}
+{"id_questao": 478, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 507.21, "data_geracao": "2026-05-07 00:00:38"}
+{"id_questao": 478, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 11489.08, "data_geracao": "2026-05-07 00:00:52"}
+{"id_questao": 478, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 626.34, "data_geracao": "2026-05-07 00:00:54"}
+{"id_questao": 479, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 1023.33, "data_geracao": "2026-05-07 00:00:57"}
+{"id_questao": 479, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 19857.96, "data_geracao": "2026-05-07 00:01:22"}
+{"id_questao": 479, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 468.2, "data_geracao": "2026-05-07 00:01:24"}
+{"id_questao": 480, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 739.09, "data_geracao": "2026-05-07 00:01:27"}
+{"id_questao": 480, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 20108.63, "data_geracao": "2026-05-07 00:01:49"}
+{"id_questao": 480, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 1545.42, "data_geracao": "2026-05-07 00:01:53"}
+{"id_questao": 481, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 1069.89, "data_geracao": "2026-05-07 00:01:56"}
+{"id_questao": 481, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 4623.51, "data_geracao": "2026-05-07 00:02:03"}
+{"id_questao": 481, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 1092.0, "data_geracao": "2026-05-07 00:02:06"}
+{"id_questao": 482, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 3518.14, "data_geracao": "2026-05-07 00:02:11"}
+{"id_questao": 482, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 27018.23, "data_geracao": "2026-05-07 00:02:40"}
+{"id_questao": 482, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 4185.78, "data_geracao": "2026-05-07 00:02:46"}
+{"id_questao": 483, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 683.5, "data_geracao": "2026-05-07 00:02:49"}
+{"id_questao": 483, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 20679.05, "data_geracao": "2026-05-07 00:03:12"}
+{"id_questao": 483, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 675.4, "data_geracao": "2026-05-07 00:03:14"}
+{"id_questao": 484, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 1759.36, "data_geracao": "2026-05-07 00:03:18"}
+{"id_questao": 484, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 18957.45, "data_geracao": "2026-05-07 00:03:42"}
+{"id_questao": 484, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 579.5, "data_geracao": "2026-05-07 00:03:45"}
+{"id_questao": 485, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 662.16, "data_geracao": "2026-05-07 00:03:47"}
+{"id_questao": 485, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 20967.18, "data_geracao": "2026-05-07 00:04:10"}
+{"id_questao": 485, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 602.11, "data_geracao": "2026-05-07 00:04:13"}
+{"id_questao": 486, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 607.63, "data_geracao": "2026-05-07 00:04:15"}
+{"id_questao": 486, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 11041.91, "data_geracao": "2026-05-07 00:04:29"}
+{"id_questao": 486, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 471.7, "data_geracao": "2026-05-07 00:04:34"}
+{"id_questao": 487, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 724.64, "data_geracao": "2026-05-07 00:04:37"}
+{"id_questao": 487, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 15117.37, "data_geracao": "2026-05-07 00:04:54"}
+{"id_questao": 487, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 417.64, "data_geracao": "2026-05-07 00:04:56"}
+{"id_questao": 488, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 667.62, "data_geracao": "2026-05-07 00:04:59"}
+{"id_questao": 488, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 17357.56, "data_geracao": "2026-05-07 00:05:18"}
+{"id_questao": 488, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 561.86, "data_geracao": "2026-05-07 00:05:25"}
+{"id_questao": 489, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 418.9, "data_geracao": "2026-05-07 00:05:28"}
+{"id_questao": 489, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 8871.04, "data_geracao": "2026-05-07 00:05:38"}
+{"id_questao": 489, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 577.24, "data_geracao": "2026-05-07 00:05:41"}
+{"id_questao": 490, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 486.96, "data_geracao": "2026-05-07 00:05:43"}
+{"id_questao": 490, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 8537.66, "data_geracao": "2026-05-07 00:05:54"}
+{"id_questao": 490, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 498.94, "data_geracao": "2026-05-07 00:05:57"}
+{"id_questao": 491, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 711.17, "data_geracao": "2026-05-07 00:05:59"}
+{"id_questao": 491, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 23016.23, "data_geracao": "2026-05-07 00:06:24"}
+{"id_questao": 491, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 511.3, "data_geracao": "2026-05-07 00:06:27"}
+{"id_questao": 492, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 866.12, "data_geracao": "2026-05-07 00:06:30"}
+{"id_questao": 492, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 12939.73, "data_geracao": "2026-05-07 00:06:45"}
+{"id_questao": 492, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 351.96, "data_geracao": "2026-05-07 00:06:47"}
+{"id_questao": 493, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 629.18, "data_geracao": "2026-05-07 00:06:52"}
+{"id_questao": 493, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 13396.46, "data_geracao": "2026-05-07 00:07:08"}
+{"id_questao": 493, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 546.78, "data_geracao": "2026-05-07 00:07:10"}
+{"id_questao": 494, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 864.33, "data_geracao": "2026-05-07 00:07:13"}
+{"id_questao": 494, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 23431.63, "data_geracao": "2026-05-07 00:07:39"}
+{"id_questao": 494, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 719.16, "data_geracao": "2026-05-07 00:07:41"}
+{"id_questao": 495, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 637.76, "data_geracao": "2026-05-07 00:07:44"}
+{"id_questao": 495, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 19460.87, "data_geracao": "2026-05-07 00:08:06"}
+{"id_questao": 495, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 380.41, "data_geracao": "2026-05-07 00:08:08"}
+{"id_questao": 496, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 633.73, "data_geracao": "2026-05-07 00:08:11"}
+{"id_questao": 496, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 26187.74, "data_geracao": "2026-05-07 00:08:39"}
+{"id_questao": 496, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 551.89, "data_geracao": "2026-05-07 00:08:41"}
+{"id_questao": 497, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 650.96, "data_geracao": "2026-05-07 00:08:44"}
+{"id_questao": 497, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 15481.44, "data_geracao": "2026-05-07 00:09:01"}
+{"id_questao": 497, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 663.37, "data_geracao": "2026-05-07 00:09:04"}
+{"id_questao": 498, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 464.39, "data_geracao": "2026-05-07 00:09:07"}
+{"id_questao": 498, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 15654.15, "data_geracao": "2026-05-07 00:09:27"}
+{"id_questao": 498, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 634.07, "data_geracao": "2026-05-07 00:09:30"}
+{"id_questao": 499, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 442.53, "data_geracao": "2026-05-07 00:09:32"}
+{"id_questao": 499, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 20769.75, "data_geracao": "2026-05-07 00:09:55"}
+{"id_questao": 499, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 646.64, "data_geracao": "2026-05-07 00:09:58"}
+{"id_questao": 500, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 683.47, "data_geracao": "2026-05-07 00:10:00"}
+{"id_questao": 500, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 15709.84, "data_geracao": "2026-05-07 00:10:18"}
+{"id_questao": 500, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 602.26, "data_geracao": "2026-05-07 00:10:24"}
+{"id_questao": 501, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 408.52, "data_geracao": "2026-05-07 00:10:26"}
+{"id_questao": 501, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 19696.3, "data_geracao": "2026-05-07 00:10:48"}
+{"id_questao": 501, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 410.29, "data_geracao": "2026-05-07 00:10:50"}
+{"id_questao": 502, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 559.66, "data_geracao": "2026-05-07 00:10:53"}
+{"id_questao": 502, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 30707.7, "data_geracao": "2026-05-07 00:11:28"}
+{"id_questao": 502, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 814.77, "data_geracao": "2026-05-07 00:11:34"}
+{"id_questao": 503, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 403.62, "data_geracao": "2026-05-07 00:11:36"}
+{"id_questao": 503, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 31634.33, "data_geracao": "2026-05-07 00:12:10"}
+{"id_questao": 503, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 526.37, "data_geracao": "2026-05-07 00:12:13"}
+{"id_questao": 504, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 433.89, "data_geracao": "2026-05-07 00:12:15"}
+{"id_questao": 504, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 35908.57, "data_geracao": "2026-05-07 00:12:53"}
+{"id_questao": 504, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 450.43, "data_geracao": "2026-05-07 00:12:55"}
+{"id_questao": 505, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 663.9, "data_geracao": "2026-05-07 00:12:58"}
+{"id_questao": 505, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 12594.3, "data_geracao": "2026-05-07 00:13:13"}
+{"id_questao": 505, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 391.59, "data_geracao": "2026-05-07 00:13:18"}
+{"id_questao": 506, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 672.46, "data_geracao": "2026-05-07 00:13:21"}
+{"id_questao": 506, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 18807.99, "data_geracao": "2026-05-07 00:13:41"}
+{"id_questao": 506, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 367.4, "data_geracao": "2026-05-07 00:13:44"}
+{"id_questao": 507, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 472.92, "data_geracao": "2026-05-07 00:13:46"}
+{"id_questao": 507, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 19728.9, "data_geracao": "2026-05-07 00:14:08"}
+{"id_questao": 507, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 839.8, "data_geracao": "2026-05-07 00:14:11"}
+{"id_questao": 508, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 603.62, "data_geracao": "2026-05-07 00:14:13"}
+{"id_questao": 508, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 13532.44, "data_geracao": "2026-05-07 00:14:29"}
+{"id_questao": 508, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 428.52, "data_geracao": "2026-05-07 00:14:31"}
+{"id_questao": 509, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 508.6, "data_geracao": "2026-05-07 00:14:34"}
+{"id_questao": 509, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 22423.18, "data_geracao": "2026-05-07 00:14:58"}
+{"id_questao": 509, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 422.02, "data_geracao": "2026-05-07 00:15:04"}
+{"id_questao": 510, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 607.37, "data_geracao": "2026-05-07 00:15:06"}
+{"id_questao": 510, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 16138.26, "data_geracao": "2026-05-07 00:15:24"}
+{"id_questao": 510, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 533.88, "data_geracao": "2026-05-07 00:15:27"}
+{"id_questao": 511, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 979.84, "data_geracao": "2026-05-07 00:15:30"}
+{"id_questao": 511, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 12066.62, "data_geracao": "2026-05-07 00:15:44"}
+{"id_questao": 511, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 2040.13, "data_geracao": "2026-05-07 00:15:48"}
+{"id_questao": 512, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 4908.66, "data_geracao": "2026-05-07 00:15:55"}
+{"id_questao": 512, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 48033.54, "data_geracao": "2026-05-07 00:16:45"}
+{"id_questao": 512, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 388.08, "data_geracao": "2026-05-07 00:16:47"}
+{"id_questao": 513, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 850.15, "data_geracao": "2026-05-07 00:16:50"}
+{"id_questao": 513, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 21785.59, "data_geracao": "2026-05-07 00:17:14"}
+{"id_questao": 513, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 664.85, "data_geracao": "2026-05-07 00:17:17"}
+{"id_questao": 514, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 935.3, "data_geracao": "2026-05-07 00:17:20"}
+{"id_questao": 514, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 37941.0, "data_geracao": "2026-05-07 00:18:00"}
+{"id_questao": 514, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 685.01, "data_geracao": "2026-05-07 00:18:02"}
+{"id_questao": 515, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 408.01, "data_geracao": "2026-05-07 00:18:05"}
+{"id_questao": 515, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 30963.4, "data_geracao": "2026-05-07 00:18:38"}
+{"id_questao": 515, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 539.94, "data_geracao": "2026-05-07 00:18:40"}
+{"id_questao": 516, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 503.73, "data_geracao": "2026-05-07 00:18:43"}
+{"id_questao": 516, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 17028.79, "data_geracao": "2026-05-07 00:19:02"}
+{"id_questao": 516, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 466.55, "data_geracao": "2026-05-07 00:19:04"}
+{"id_questao": 517, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 567.48, "data_geracao": "2026-05-07 00:19:07"}
+{"id_questao": 517, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 25700.51, "data_geracao": "2026-05-07 00:19:34"}
+{"id_questao": 517, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 846.58, "data_geracao": "2026-05-07 00:19:37"}
+{"id_questao": 518, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 596.03, "data_geracao": "2026-05-07 00:19:40"}
+{"id_questao": 518, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 61659.84, "data_geracao": "2026-05-07 00:20:44"}
+{"id_questao": 518, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 1048.37, "data_geracao": "2026-05-07 00:20:47"}
+{"id_questao": 519, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 462.52, "data_geracao": "2026-05-07 00:20:49"}
+{"id_questao": 519, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 72468.86, "data_geracao": "2026-05-07 00:22:04"}
+{"id_questao": 519, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 579.83, "data_geracao": "2026-05-07 00:22:06"}
+{"id_questao": 520, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 424.59, "data_geracao": "2026-05-07 00:22:09"}
+{"id_questao": 520, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 54168.93, "data_geracao": "2026-05-07 00:23:05"}
+{"id_questao": 520, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 818.03, "data_geracao": "2026-05-07 00:23:08"}
+{"id_questao": 521, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 604.76, "data_geracao": "2026-05-07 00:23:10"}
+{"id_questao": 521, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 26856.56, "data_geracao": "2026-05-07 00:23:39"}
+{"id_questao": 521, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 979.6, "data_geracao": "2026-05-07 00:23:42"}
+{"id_questao": 522, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 728.76, "data_geracao": "2026-05-07 00:23:45"}
+{"id_questao": 522, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 33289.18, "data_geracao": "2026-05-07 00:24:20"}
+{"id_questao": 522, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 1007.82, "data_geracao": "2026-05-07 00:24:23"}
+{"id_questao": 523, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 668.74, "data_geracao": "2026-05-07 00:24:26"}
+{"id_questao": 523, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 62339.96, "data_geracao": "2026-05-07 00:25:30"}
+{"id_questao": 523, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 519.86, "data_geracao": "2026-05-07 00:25:33"}
+{"id_questao": 524, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 440.7, "data_geracao": "2026-05-07 00:25:35"}
+{"id_questao": 524, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 53610.7, "data_geracao": "2026-05-07 00:26:31"}
+{"id_questao": 524, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 1059.18, "data_geracao": "2026-05-07 00:26:34"}
+{"id_questao": 525, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 445.93, "data_geracao": "2026-05-07 00:26:36"}
+{"id_questao": 525, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 13031.03, "data_geracao": "2026-05-07 00:26:51"}
+{"id_questao": 525, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 660.84, "data_geracao": "2026-05-07 00:26:54"}
+{"id_questao": 526, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 693.59, "data_geracao": "2026-05-07 00:26:56"}
+{"id_questao": 526, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 20363.11, "data_geracao": "2026-05-07 00:27:19"}
+{"id_questao": 526, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 979.13, "data_geracao": "2026-05-07 00:27:22"}
+{"id_questao": 527, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 996.73, "data_geracao": "2026-05-07 00:27:25"}
+{"id_questao": 527, "id_modelo": "GPT-5 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 58126.22, "data_geracao": "2026-05-07 00:28:25"}
+{"id_questao": 527, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 488.53, "data_geracao": "2026-05-07 00:28:27"}
+{"id_questao": 528, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 466.84, "data_geracao": "2026-05-07 00:28:30"}
+{"id_questao": 528, "id_modelo": "GPT-5 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 37438.82, "data_geracao": "2026-05-07 00:29:09"}
+{"id_questao": 528, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "B", "tempo_inferencia_ms": 513.24, "data_geracao": "2026-05-07 00:29:12"}
+{"id_questao": 529, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "C", "tempo_inferencia_ms": 695.0, "data_geracao": "2026-05-07 00:29:15"}
+{"id_questao": 529, "id_modelo": "GPT-5 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 17328.7, "data_geracao": "2026-05-07 00:29:34"}
+{"id_questao": 529, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "A", "tempo_inferencia_ms": 408.09, "data_geracao": "2026-05-07 00:29:36"}
+{"id_questao": 530, "id_modelo": "GPT-5.4 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 391.03, "data_geracao": "2026-05-07 00:29:39"}
+{"id_questao": 530, "id_modelo": "GPT-5 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 23056.66, "data_geracao": "2026-05-07 00:30:04"}
+{"id_questao": 530, "id_modelo": "GPT-4.1 Nano", "texto_resposta": "D", "tempo_inferencia_ms": 681.3, "data_geracao": "2026-05-07 00:30:06"}
