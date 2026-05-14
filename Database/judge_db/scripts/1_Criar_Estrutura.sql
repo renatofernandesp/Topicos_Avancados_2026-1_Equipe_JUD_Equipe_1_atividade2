@@ -6,6 +6,17 @@ CREATE TABLE modelos (
 	parametro_precisao VARCHAR(20),
 	CONSTRAINT modelos_nome_modelo_versao_key UNIQUE (nome_modelo, versao)
 );
+CREATE TABLE IF NOT EXISTS public.modelos_juiz
+(
+    id_modelo_juiz integer NOT NULL GENERATED ALWAYS AS IDENTITY ( INCREMENT 1 START 1 MINVALUE 1 MAXVALUE 2147483647 CACHE 1 ),
+    nome_exibicao text COLLATE pg_catalog."default" NOT NULL,
+    id_api text COLLATE pg_catalog."default" NOT NULL,
+    provedor text COLLATE pg_catalog."default" NOT NULL DEFAULT 'google'::text,
+    ativo boolean NOT NULL DEFAULT true,
+    criado_em timestamp with time zone NOT NULL DEFAULT now(),
+    CONSTRAINT modelos_juiz_pkey PRIMARY KEY (id_modelo_juiz),
+    CONSTRAINT modelos_juiz_id_api_key UNIQUE (id_api)
+)
 -- 2. Tabela de Datasets
 CREATE TABLE datasets (
 	id_dataset SERIAL PRIMARY KEY,
@@ -13,14 +24,22 @@ CREATE TABLE datasets (
 	dominio VARCHAR(50) NOT NULL
 );
 -- 3. Tabela de Perguntas
-CREATE TABLE perguntas (
-	id_pergunta SERIAL PRIMARY KEY,
-	id_dataset INTEGER REFERENCES datasets(id_dataset),
-	enunciado TEXT NOT NULL,
-	resposta_ouro TEXT NOT NULL,
-	metadados JSONB,
-	CONSTRAINT perguntas_id_dataset_enunciado_key UNIQUE (id_dataset, enunciado)
-);
+CREATE TABLE IF NOT EXISTS public.perguntas
+(
+    id_pergunta integer NOT NULL DEFAULT nextval('perguntas_id_pergunta_seq'::regclass),
+    id_dataset integer,
+    enunciado text COLLATE pg_catalog."default" NOT NULL,
+    resposta_ouro text COLLATE pg_catalog."default" NOT NULL,
+    metadados jsonb,
+    tipo text COLLATE pg_catalog."default" GENERATED ALWAYS AS ((metadados ->> 'tipo'::text)) STORED,
+    id_questao integer GENERATED ALWAYS AS ((NULLIF(TRIM(BOTH FROM (metadados ->> 'id_questao'::text)), ''::text))::integer) STORED,
+    CONSTRAINT perguntas_pkey PRIMARY KEY (id_pergunta),
+    CONSTRAINT perguntas_id_dataset_enunciado_key UNIQUE (id_dataset, enunciado),
+    CONSTRAINT perguntas_id_dataset_fkey FOREIGN KEY (id_dataset)
+        REFERENCES public.datasets (id_dataset) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+)
 CREATE INDEX IF NOT EXISTS idx_perguntas_dataset
     ON public.perguntas USING btree
     (id_dataset ASC NULLS LAST)
@@ -43,14 +62,31 @@ CREATE INDEX IF NOT EXISTS idx_respostas_modelo
     TABLESPACE pg_default;
 	
 -- 5. Tabela de Avaliações da Atividade 2 (O Juiz)
-CREATE TABLE avaliacoes_juiz (
-	id_avaliacao SERIAL PRIMARY KEY,
-	id_resposta_ativa1 INTEGER REFERENCES respostas_atividade_1(id_resposta),
-	id_modelo_juiz INTEGER REFERENCES modelos(id_modelo),
-	nota_atribuida INTEGER CHECK (nota_atribuida BETWEEN 1 AND 5),
-	chain_of_thought TEXT NOT NULL,
-	data_avaliacao TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
+CREATE TABLE IF NOT EXISTS public.avaliacoes_juiz
+(
+    id_avaliacao integer NOT NULL DEFAULT nextval('avaliacoes_juiz_id_avaliacao_seq'::regclass),
+    id_resposta_ativa1 integer,
+    id_modelo_juiz integer,
+    nota_atribuida integer,
+    chain_of_thought text COLLATE pg_catalog."default" NOT NULL,
+    data_avaliacao timestamp without time zone DEFAULT CURRENT_TIMESTAMP,
+    nota_humana integer,
+    tokens_prompt integer,
+    tokens_completion integer,
+    bert_score_f1 real,
+    CONSTRAINT avaliacoes_juiz_pkey PRIMARY KEY (id_avaliacao),
+    CONSTRAINT avaliacoes_juiz_resp_juiz_unique UNIQUE (id_resposta_ativa1, id_modelo_juiz),
+    CONSTRAINT avaliacoes_juiz_id_modelo_juiz_fkey FOREIGN KEY (id_modelo_juiz)
+        REFERENCES public.modelos_juiz (id_modelo_juiz) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION,
+    CONSTRAINT avaliacoes_juiz_id_resposta_ativa1_fkey FOREIGN KEY (id_resposta_ativa1)
+        REFERENCES public.respostas_atividade_1 (id_resposta) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION,
+    CONSTRAINT avaliacoes_juiz_nota_atribuida_check CHECK (nota_atribuida >= 1 AND nota_atribuida <= 5),
+    CONSTRAINT avaliacoes_juiz_nota_humana_check CHECK (nota_humana >= 1 AND nota_humana <= 5)
+)
 CREATE INDEX IF NOT EXISTS idx_avaliacoes_resposta
     ON public.avaliacoes_juiz USING btree
     (id_resposta_ativa1 ASC NULLS LAST)
